@@ -24,10 +24,10 @@ jobs:
       - persist_to_workspace:
           root: .
           paths:
-            - ./
+            - ../repo
   build-img:
     executor: docker-publisher
-    working_directory: /tmp/workspace
+    working_directory: /tmp/workspace/repo
     steps:
       - checkout
       - setup_remote_docker
