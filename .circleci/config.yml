@@ -15,13 +15,14 @@ jobs:
           path: ~/repo
       - restore_cache:
           keys:
-            - dep2-{{ checksum "yarn.lock" }}
+            - dep-{{ checksum "yarn.lock" }}
       - run: yarn install --production --no-cache
       - save_cache:
-          key: dep2-{{ checksum "yarn.lock" }}
+          key: dep-{{ checksum "yarn.lock" }}
           paths:
             - node_modules
             - lib
+      - run: yarn run build
       - persist_to_workspace:
           root: .
           paths:
