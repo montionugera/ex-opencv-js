@@ -26,7 +26,7 @@ jobs:
       - persist_to_workspace:
           root: .
           paths:
-            - ../repo
+            - .
   build-img:
     executor: docker-publisher
     working_directory: /tmp/workspace/repo
