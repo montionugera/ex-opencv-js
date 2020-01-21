@@ -1,0 +1,192 @@
+{
+  "insurance_type": "Health Insurance",
+  "policy": "Policy",
+  "tab": {
+    "info": "Information",
+    "picture": "Images",
+    "package": "Package",
+    "summary": "Summary"
+  },
+  "confirm_agreement": "Please read the terms and conditions",
+  "accept_agreement": "You have accepted the terms and conditions",
+  "confirm_application": "Is the information in the insurance application form correct?",
+  "invalid_application": "what would you like to change??",
+  "basic": {
+    "label": "Personal Information",
+    "ask": "Ask personal info"
+  },
+  "health": {
+    "label": "Health Information",
+    "ask": "Ask health info",
+    "info": "Please answer health questions",
+    "answer": "Answer",
+    "done": "Successfully answered health question",
+    "cancer": {
+      "has_excepted_cancer": "1. Have insurer's parents or siblings ever had or deceased by these following types of cancer or not: Breast cancer, cervical cancer, ovarian cancer, intestinal cancer, retinoblastoma or leukemia? ",
+      "excepted_cancer": {
+        "label": "Please specify type of cancer that have occured ",
+        "placeholder": "Specify type of cancer"
+      },
+      "has_cancer": "2. Have insurer's parents or siblings ever had or deceased by other type of cancer apart from mentioned in No. 1 or not?",
+      "cancer": {
+        "label": "Please specify type od cancer that have occured",
+        "placeholder": "Specify disease"
+      },
+      "smoking_history": "3. Smoking history",
+      "is_smoking": "3.1 History of smoking in the past",
+      "smoking": {
+        "amount": {
+          "label": "How many cigarettes per day?",
+          "placeholder": "Please specify in numbers"
+        },
+        "start": {
+          "label": "Starting age of smoking",
+          "placeholder": "Please specify the age"
+        },
+        "end": {
+          "label": "until the age of?",
+          "placeholder": "Please specify the age"
+        }
+      },
+      "is_still_smoking": "3.2 Current smoking details",
+      "currently_smoking": {
+        "amount": {
+          "label": "How many cigarettes per day?",
+          "placeholder": "Please specify in numbers"
+        }
+      },
+      "disease": "4. Does applicant everknown by oneself that \"used to\" or \"received treatment\" or \"now being sick\" of the following diseases or not?",
+      "has_disease_a": "4.1 Hepatitis B or C (both carrier or used to have), Aids or positive to HIV, chronic pneumonia, chronic colitis, liver cirrhosis, hepatitis, chronic cervicitis or chronic vaginitis or vaginal cancer",
+      "disease_a": {
+        "name": {
+          "label": "Please specify the disease",
+          "placeholder": "Specify disease"
+        }
+      },
+      "has_disease_b": "4.2 Tumor, neoplasm, welt or hive",
+      "disease_b": {
+        "type": {
+          "label": "Please specify the type",
+          "placeholder": "Specify type"
+        },
+        "organ": {
+          "label": "Affected organ(s)",
+          "placeholder": "Please specify the organ(s)"
+        }
+      },
+      "has_disease_c": "4.3 Cyst",
+      "disease_c": {
+        "type": {
+          "label": "Please specify the type",
+          "placeholder": "Specify type"
+        }
+      },
+      "has_insurance_company": "5. Do you have cancer insurance or other types of insurance with other companies that have cancer coverage or not? ",
+      "insurance_company": {
+        "name": {
+          "label": "Please specify the company name",
+          "placeholder": "Please specify"
+        },
+        "amount": {
+          "label": "Please specify the sum insured amount",
+          "placeholder": "Please specify in monetary amount"
+        }
+      }
+    }
+  },
+  "insured": {
+    "label": "Personal Information",
+    "ask": "Ask personal info",
+    "confirm_insured": "Is the information correct?",
+    "invalid_confirm_insured": "what would you like to change?",
+    "name": { "label": "Name", "placeholder": "Fill first-last name" },
+    "gender": { "label": "Gender", "placeholder": "Select gender" },
+    "dob": { "label": "Date of Birth", "placeholder": "DD/MM/YYYY" },
+    "national_id": {
+      "label": "National ID",
+      "placeholder": "Fill national ID"
+    },
+    "job": { "label": "Occupation", "placeholder": "Fill occupation" },
+    "age": { "label": "Age", "placeholder": "Fill age" },
+    "height": { "label": "Height", "placeholder": "Fill height" },
+    "weight": { "label": "Weight", "placeholder": "Fill weight" },
+    "income_per_month": {
+      "label": "Income per month",
+      "placeholder": "Fill income"
+    },
+    "current_location": {
+      "label": "Current address",
+      "placeholder": "Fill address"
+    },
+    "work_location": {
+      "label": "Work address",
+      "placeholder": "Fill address"
+    },
+    "ask_insured": "Start asking personal information",
+    "cancel_ask_insured": "Cancel personal information inquiry",
+    "ask_name": "What is your name?",
+    "invalid_name": "Invalid name format. Please tell me your name once again.",
+    "ask_national_id": "What is your national ID number?",
+    "invalid_national_id": "Invalid national ID. Please tell me your national ID once again",
+    "ask_dob": "What is your date of birth?",
+    "invalid_dob": "Invalid date format. Please select your date of birth once again.",
+    "ask_gender": "What is your gender?",
+    "invalid_gender": "Invalid gender. Please tell me your gender once again.",
+    "ask_job": "What is your occupation?",
+    "invalid_job": "Invalid occupation. Please tell me your occupation once again.",
+    "ask_height": "What is your height?",
+    "invalid_height": "Invalid height. Please tell me your height once again.",
+    "ask_weight": "What is your weight?",
+    "invalid_weight": "Invalid weight. Please tell me your weight once again.",
+    "ask_income_per_month": "What is your monthly income?",
+    "invalid_income_per_month": "Invalid monthly income format. Please specify",
+    "ask_current_location": "Where is your current address?",
+    "invalid_current_location": "Invalid address. Please $t(common:pin_location) once again",
+    "ask_work_location": "Where is your working address?",
+    "invalid_work_location": "Invalid address. Please $t(common:pin_location) once again"
+  },
+  "beneficiary": {
+    "label": "Beneficiary Information",
+    "ask": "Ask beneficiary info",
+    "confirm_beneficiary": "Is the information correct?",
+    "invalid_confirm_beneficiary": "what would you like to change?",
+    "name": { "label": "Name", "placeholder": "Fill first-last name" },
+    "relationship": {
+      "label": "Relationship",
+      "placeholder": "Please specify"
+    },
+    "location": {
+      "label": "Address",
+      "placeholder": "Fill address"
+    },
+    "ask_beneficiary": "Start asking beneficiary information",
+    "cancel_ask_beneficiary": "Cancel beneficiary information inquiry",
+    "ask_name": "What is the name of the beneficiary?",
+    "invalid_name": "Invalid name format. Please tell me the name once again.",
+    "ask_relationship": "What is the relationship between the applicant?",
+    "invalid_relationship": "Invalid format. Please tell me the once again.",
+    "ask_location": "Where is the current address of the beneficiary?",
+    "invalid_location": "Invalid address. Please $t(common:pin_location) once again"
+  },
+  "product": {
+    "label": "Package Information",
+    "id": "ID",
+    "type": "Type",
+    "image": "Image",
+    "title": "Title",
+    "details": "Details",
+    "plans": "Plans",
+    "plan_id": "Plan ID",
+
+    "coverage": "Coverage",
+    "melanoma": "Melanoma",
+    "non_melanoma": "Non Melanoma ",
+    "treatment_fund": "Treatment Fund",
+    "death_fund": "Death Coverage",
+
+    "net": "Net",
+    "vat": "Vat 7%",
+    "total": "Total"
+  },
+  "agreement_term": "Confirmation on declarations or answer provided in the life insurance application of the applicant and/or father/ mother/legal guardian or the premium payer (in case the applicant is a non sui juris (minor)), the statement, authorization,and consent\n\n1. I hereby confirm that every answer I have given in this application and every declaration to the attending physician are true and correct in all respects. I understand  that if I omit to disclose any fact, the Company may decline the application and contractual claim.\n\n2. I hereby give my consent to physicians or other insurance companies or medical centers that have my medical history orwill have in the future, to disclose information pertaining to my health to the Company or its representatives for the purpose of the Company’s underwriting decision or benefit payment decision.\n\n3. I hereby give my consent to the Company to collect, use, and disclose fact pertaining to my health and my other informationto other insurance companies or reinsurance companies or legal authorities or medical profession personnel for the purpose of the Company’s underwriting decision or benefit payment decision or medical use.\n\n4. I hearby give my consent to the Company to collect, use, and disclose fact pertaining to my health and my other information to the Office of Insurance Commission for the benefit of an insurance supervision.\n\n\tA. If you terminate the insurance policy before its maturity, you shall receive benefit stated in the surrender value schedule in the insurance policy (if any) which may be less than the specified sum insured.\n\n\tB. Before accepting the terms, please check the answers once again to ensure the completeness of the insurance contract."
+}

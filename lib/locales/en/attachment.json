@@ -1,0 +1,39 @@
+{
+  "car_images": "Car Picture",
+  "car_front": "Front",
+  "car_back": "Rear",
+  "car_left": "Left",
+  "car_right": "Right",
+  "car_registration": "Car Registration Picture",
+  "national_id": "National ID Picture",
+  "req_car_images": {
+    "label": "Ask car picture",
+    "info": "Capture car picture as shown example",
+    "guide": "Please capture pictures of car on all four sides ",
+    "done": "Capture car picture successful"
+  },
+  "req_car_registration_image": {
+    "label": "Ask car registration picture",
+    "info": "Capture car registration book picture as shown example",
+    "guide": "Please capture picture of the top part of the car registration book with all components in the photo frame",
+    "done": "Capture car registration book successful"
+  },
+  "req_national_id_image": {
+    "label": "Ask National ID picture",
+    "info": "Capture National ID card picture as shown example",
+    "guide": "Please capture picture of National ID card with all components in the photo frame",
+    "done": "Capture National ID card picture successful"
+  },
+  "ocr": {
+    "error": {
+      "AIS": {
+        "0101": "The input parameter does not meet the requirements.",
+        "0102": "The image format is not supported.",
+        "0103": "The image size is inappropriate.",
+        "0104": "The image is not supported or is of poor quality.",
+        "0105": "Algorithm calculation failed.",
+        "0106": "The image bit depth is not supported."
+      }
+    }
+  }
+}

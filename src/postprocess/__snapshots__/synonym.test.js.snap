@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`synonym return correctly 1`] = `
+Array [
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 884,
+          "y": 640,
+        },
+        Object {
+          "x": 1434,
+          "y": 656,
+        },
+        Object {
+          "x": 1449,
+          "y": 718,
+        },
+        Object {
+          "x": 874,
+          "y": 700,
+        },
+      ],
+    },
+    "confidence": 0.6,
+    "description": "กรุงเทพมหานคร",
+    "field": "vehicle_license_province",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 884,
+          "y": 640,
+        },
+        Object {
+          "x": 1434,
+          "y": 656,
+        },
+        Object {
+          "x": 1449,
+          "y": 718,
+        },
+        Object {
+          "x": 874,
+          "y": 700,
+        },
+      ],
+    },
+    "confidence": 0.3,
+    "description": "กรง",
+    "field": "vehicle_license_province",
+  },
+]
+`;

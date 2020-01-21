@@ -1,0 +1,13 @@
+{
+  "info": "ข้อมูล",
+  "confirm": "ยืนยัน",
+  "error": "ข้อผิดพลาด",
+  "loading": "กรุณารอสักครู่",
+  "message": {
+    "prompt_save_data": "คุณต้องการบันทึกข้อมูลหรือไม่",
+    "info_data_saved": "บันทึกข้อมูลแล้ว",
+    "prompt_show_command": "คุณต้องการเรียกคำสั่งหรือไม่",
+    "info_command_shown": "แสดงคำสั่งแล้ว",
+    "prompt_delete_attachment": "คุณต้องการลบรูปหรือไม่"
+  }
+}

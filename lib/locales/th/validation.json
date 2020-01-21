@@ -1,0 +1,20 @@
+{
+  "is_valid": "ข้อมูลถูกต้อง",
+  "empty": {
+    "select": "กรุณาเลือก",
+    "text": "กรุณากรอกข้อมูล",
+    "textarea": "กรุณากรอกข้อมูล",
+    "date": "กรุณาเลือก",
+    "number": "กรุณากรอกข้อมูล",
+    "checkbox": "กรุณาเลือก",
+    "checkbox_button": "กรุณาเลือก",
+    "image": "กรุณาถ่ายภาพ"
+  },
+  "error": {
+    "empty": "$t(validation:empty.{{ type }})",
+    "invalid_name": "กรุณากรอกชื่อให้ถูกต้อง",
+    "invalid_date": "กรุณากรอกวันที่ให้ถูกต้อง",
+    "invalid_number": "กรุณากรอกตัวเลข",
+    "invalid_thai_national_id": "เลขบัตรประชาชนไม่ถูกต้อง"
+  }
+}

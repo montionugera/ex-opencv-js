@@ -1,0 +1,5934 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`getFullTextAnnotation return correctly 1`] = `
+Array [
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2007,
+          "y": 278,
+        },
+        Object {
+          "x": 2114,
+          "y": 278,
+        },
+        Object {
+          "x": 2114,
+          "y": 385,
+        },
+        Object {
+          "x": 2007,
+          "y": 385,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "144 ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2136,
+          "y": 278,
+        },
+        Object {
+          "x": 2167,
+          "y": 278,
+        },
+        Object {
+          "x": 2167,
+          "y": 385,
+        },
+        Object {
+          "x": 2136,
+          "y": 385,
+        },
+      ],
+    },
+    "confidence": 0.91,
+    "description": "4 ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2190,
+          "y": 278,
+        },
+        Object {
+          "x": 2221,
+          "y": 278,
+        },
+        Object {
+          "x": 2221,
+          "y": 385,
+        },
+        Object {
+          "x": 2190,
+          "y": 385,
+        },
+      ],
+    },
+    "confidence": 0.26,
+    "description": "9 ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2234,
+          "y": 278,
+        },
+        Object {
+          "x": 2265,
+          "y": 278,
+        },
+        Object {
+          "x": 2265,
+          "y": 385,
+        },
+        Object {
+          "x": 2234,
+          "y": 385,
+        },
+      ],
+    },
+    "confidence": 0.78,
+    "description": "2 ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2299,
+          "y": 278,
+        },
+        Object {
+          "x": 2330,
+          "y": 278,
+        },
+        Object {
+          "x": 2330,
+          "y": 385,
+        },
+        Object {
+          "x": 2299,
+          "y": 385,
+        },
+      ],
+    },
+    "confidence": 0.88,
+    "description": "4",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1402,
+          "y": 361,
+        },
+        Object {
+          "x": 1830,
+          "y": 372,
+        },
+        Object {
+          "x": 1828,
+          "y": 441,
+        },
+        Object {
+          "x": 1400,
+          "y": 430,
+        },
+      ],
+    },
+    "confidence": 0.97,
+    "description": "รายการจดทะเบียน",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 390,
+          "y": 703,
+        },
+        Object {
+          "x": 405,
+          "y": 705,
+        },
+        Object {
+          "x": 396,
+          "y": 759,
+        },
+        Object {
+          "x": 382,
+          "y": 756,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "สี",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 497,
+          "y": 720,
+        },
+        Object {
+          "x": 587,
+          "y": 734,
+        },
+        Object {
+          "x": 579,
+          "y": 787,
+        },
+        Object {
+          "x": 489,
+          "y": 773,
+        },
+      ],
+    },
+    "confidence": 0.8,
+    "description": "เทา",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 380,
+          "y": 454,
+        },
+        Object {
+          "x": 680,
+          "y": 464,
+        },
+        Object {
+          "x": 678,
+          "y": 532,
+        },
+        Object {
+          "x": 378,
+          "y": 522,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "วันจดทะเบียน ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 771,
+          "y": 467,
+        },
+        Object {
+          "x": 820,
+          "y": 469,
+        },
+        Object {
+          "x": 818,
+          "y": 536,
+        },
+        Object {
+          "x": 769,
+          "y": 534,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "26 ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 856,
+          "y": 470,
+        },
+        Object {
+          "x": 1034,
+          "y": 476,
+        },
+        Object {
+          "x": 1032,
+          "y": 543,
+        },
+        Object {
+          "x": 854,
+          "y": 537,
+        },
+      ],
+    },
+    "confidence": 0.77,
+    "description": "มกราคม ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1063,
+          "y": 476,
+        },
+        Object {
+          "x": 1165,
+          "y": 479,
+        },
+        Object {
+          "x": 1163,
+          "y": 547,
+        },
+        Object {
+          "x": 1061,
+          "y": 544,
+        },
+      ],
+    },
+    "confidence": 1,
+    "description": "2561 ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1226,
+          "y": 482,
+        },
+        Object {
+          "x": 1475,
+          "y": 490,
+        },
+        Object {
+          "x": 1473,
+          "y": 557,
+        },
+        Object {
+          "x": 1224,
+          "y": 549,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "เลขทะเบียน ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1718,
+          "y": 498,
+        },
+        Object {
+          "x": 1794,
+          "y": 500,
+        },
+        Object {
+          "x": 1792,
+          "y": 567,
+        },
+        Object {
+          "x": 1716,
+          "y": 565,
+        },
+      ],
+    },
+    "confidence": 0.73,
+    "description": "617 ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1997,
+          "y": 507,
+        },
+        Object {
+          "x": 2127,
+          "y": 511,
+        },
+        Object {
+          "x": 2125,
+          "y": 578,
+        },
+        Object {
+          "x": 1995,
+          "y": 574,
+        },
+      ],
+    },
+    "confidence": 0.97,
+    "description": "จังหวัด ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2279,
+          "y": 516,
+        },
+        Object {
+          "x": 2607,
+          "y": 527,
+        },
+        Object {
+          "x": 2605,
+          "y": 595,
+        },
+        Object {
+          "x": 2277,
+          "y": 584,
+        },
+      ],
+    },
+    "confidence": 0.87,
+    "description": "กรุงเทพมหานคร",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 387,
+          "y": 537,
+        },
+        Object {
+          "x": 552,
+          "y": 542,
+        },
+        Object {
+          "x": 550,
+          "y": 612,
+        },
+        Object {
+          "x": 385,
+          "y": 607,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "ประเภท ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 615,
+          "y": 544,
+        },
+        Object {
+          "x": 1173,
+          "y": 562,
+        },
+        Object {
+          "x": 1170,
+          "y": 632,
+        },
+        Object {
+          "x": 613,
+          "y": 614,
+        },
+      ],
+    },
+    "confidence": 0.88,
+    "description": "รถยนต์นั่งส่วนบุคคลไม่เกิน ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1207,
+          "y": 564,
+        },
+        Object {
+          "x": 1227,
+          "y": 565,
+        },
+        Object {
+          "x": 1225,
+          "y": 634,
+        },
+        Object {
+          "x": 1205,
+          "y": 633,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "7 ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1262,
+          "y": 566,
+        },
+        Object {
+          "x": 1313,
+          "y": 568,
+        },
+        Object {
+          "x": 1311,
+          "y": 637,
+        },
+        Object {
+          "x": 1260,
+          "y": 635,
+        },
+      ],
+    },
+    "confidence": 0.94,
+    "description": "คน ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1423,
+          "y": 571,
+        },
+        Object {
+          "x": 1443,
+          "y": 572,
+        },
+        Object {
+          "x": 1441,
+          "y": 641,
+        },
+        Object {
+          "x": 1421,
+          "y": 640,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "(",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1443,
+          "y": 572,
+        },
+        Object {
+          "x": 1494,
+          "y": 574,
+        },
+        Object {
+          "x": 1492,
+          "y": 643,
+        },
+        Object {
+          "x": 1441,
+          "y": 641,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "รย",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1493,
+          "y": 573,
+        },
+        Object {
+          "x": 1513,
+          "y": 574,
+        },
+        Object {
+          "x": 1511,
+          "y": 643,
+        },
+        Object {
+          "x": 1491,
+          "y": 642,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": ". ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1570,
+          "y": 576,
+        },
+        Object {
+          "x": 1590,
+          "y": 577,
+        },
+        Object {
+          "x": 1588,
+          "y": 646,
+        },
+        Object {
+          "x": 1568,
+          "y": 645,
+        },
+      ],
+    },
+    "confidence": 0.53,
+    "description": "“",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1598,
+          "y": 577,
+        },
+        Object {
+          "x": 1618,
+          "y": 578,
+        },
+        Object {
+          "x": 1616,
+          "y": 647,
+        },
+        Object {
+          "x": 1596,
+          "y": 646,
+        },
+      ],
+    },
+    "confidence": 0.84,
+    "description": "1 ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1693,
+          "y": 580,
+        },
+        Object {
+          "x": 1713,
+          "y": 581,
+        },
+        Object {
+          "x": 1711,
+          "y": 650,
+        },
+        Object {
+          "x": 1691,
+          "y": 649,
+        },
+      ],
+    },
+    "confidence": 0.52,
+    "description": ") ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1751,
+          "y": 582,
+        },
+        Object {
+          "x": 1897,
+          "y": 587,
+        },
+        Object {
+          "x": 1895,
+          "y": 656,
+        },
+        Object {
+          "x": 1749,
+          "y": 651,
+        },
+      ],
+    },
+    "confidence": 0.91,
+    "description": "ลักษณะ ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2024,
+          "y": 590,
+        },
+        Object {
+          "x": 2250,
+          "y": 597,
+        },
+        Object {
+          "x": 2248,
+          "y": 667,
+        },
+        Object {
+          "x": 2022,
+          "y": 660,
+        },
+      ],
+    },
+    "confidence": 0.58,
+    "description": "นั่งสามตอน",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 382,
+          "y": 603,
+        },
+        Object {
+          "x": 532,
+          "y": 613,
+        },
+        Object {
+          "x": 526,
+          "y": 694,
+        },
+        Object {
+          "x": 377,
+          "y": 684,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "ยี่ห้อรถ ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 622,
+          "y": 618,
+        },
+        Object {
+          "x": 906,
+          "y": 637,
+        },
+        Object {
+          "x": 901,
+          "y": 720,
+        },
+        Object {
+          "x": 617,
+          "y": 701,
+        },
+      ],
+    },
+    "confidence": 0.96,
+    "description": "MITSUBISHI",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1309,
+          "y": 659,
+        },
+        Object {
+          "x": 1402,
+          "y": 661,
+        },
+        Object {
+          "x": 1400,
+          "y": 726,
+        },
+        Object {
+          "x": 1307,
+          "y": 724,
+        },
+      ],
+    },
+    "confidence": 0.96,
+    "description": "แบบ ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1491,
+          "y": 663,
+        },
+        Object {
+          "x": 1660,
+          "y": 667,
+        },
+        Object {
+          "x": 1658,
+          "y": 733,
+        },
+        Object {
+          "x": 1489,
+          "y": 729,
+        },
+      ],
+    },
+    "confidence": 0.92,
+    "description": "PAJERO ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1689,
+          "y": 668,
+        },
+        Object {
+          "x": 1822,
+          "y": 671,
+        },
+        Object {
+          "x": 1820,
+          "y": 737,
+        },
+        Object {
+          "x": 1687,
+          "y": 734,
+        },
+      ],
+    },
+    "confidence": 0.94,
+    "description": "SPORT",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2196,
+          "y": 673,
+        },
+        Object {
+          "x": 2291,
+          "y": 673,
+        },
+        Object {
+          "x": 2291,
+          "y": 747,
+        },
+        Object {
+          "x": 2196,
+          "y": 747,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "รุ่นปี ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2313,
+          "y": 673,
+        },
+        Object {
+          "x": 2334,
+          "y": 673,
+        },
+        Object {
+          "x": 2334,
+          "y": 747,
+        },
+        Object {
+          "x": 2313,
+          "y": 747,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "ค",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2328,
+          "y": 673,
+        },
+        Object {
+          "x": 2349,
+          "y": 673,
+        },
+        Object {
+          "x": 2349,
+          "y": 747,
+        },
+        Object {
+          "x": 2328,
+          "y": 747,
+        },
+      ],
+    },
+    "confidence": 0.98,
+    "description": ".",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2350,
+          "y": 673,
+        },
+        Object {
+          "x": 2371,
+          "y": 673,
+        },
+        Object {
+          "x": 2371,
+          "y": 747,
+        },
+        Object {
+          "x": 2350,
+          "y": 747,
+        },
+      ],
+    },
+    "confidence": 1,
+    "description": "ศ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2373,
+          "y": 673,
+        },
+        Object {
+          "x": 2394,
+          "y": 673,
+        },
+        Object {
+          "x": 2394,
+          "y": 747,
+        },
+        Object {
+          "x": 2373,
+          "y": 747,
+        },
+      ],
+    },
+    "confidence": 0.9,
+    "description": ". ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2499,
+          "y": 673,
+        },
+        Object {
+          "x": 2606,
+          "y": 673,
+        },
+        Object {
+          "x": 2606,
+          "y": 747,
+        },
+        Object {
+          "x": 2499,
+          "y": 747,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "2017",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1092,
+          "y": 732,
+        },
+        Object {
+          "x": 1276,
+          "y": 738,
+        },
+        Object {
+          "x": 1274,
+          "y": 808,
+        },
+        Object {
+          "x": 1090,
+          "y": 802,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "เลขตัวรถ ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1379,
+          "y": 741,
+        },
+        Object {
+          "x": 1850,
+          "y": 756,
+        },
+        Object {
+          "x": 1848,
+          "y": 826,
+        },
+        Object {
+          "x": 1377,
+          "y": 811,
+        },
+      ],
+    },
+    "confidence": 0.69,
+    "description": "MITGUKR1OHH005341",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2210,
+          "y": 749,
+        },
+        Object {
+          "x": 2292,
+          "y": 751,
+        },
+        Object {
+          "x": 2291,
+          "y": 824,
+        },
+        Object {
+          "x": 2209,
+          "y": 822,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "อยู่ที่ ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2422,
+          "y": 754,
+        },
+        Object {
+          "x": 2584,
+          "y": 757,
+        },
+        Object {
+          "x": 2583,
+          "y": 829,
+        },
+        Object {
+          "x": 2421,
+          "y": 826,
+        },
+      ],
+    },
+    "confidence": 0.89,
+    "description": "หลังขวา",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 377,
+          "y": 764,
+        },
+        Object {
+          "x": 692,
+          "y": 775,
+        },
+        Object {
+          "x": 689,
+          "y": 857,
+        },
+        Object {
+          "x": 374,
+          "y": 846,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "ยี่ห้อเครื่องยนต์",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 905,
+          "y": 825,
+        },
+        Object {
+          "x": 1204,
+          "y": 825,
+        },
+        Object {
+          "x": 1204,
+          "y": 890,
+        },
+        Object {
+          "x": 905,
+          "y": 890,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "MITSUBISHI",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1578,
+          "y": 822,
+        },
+        Object {
+          "x": 1875,
+          "y": 831,
+        },
+        Object {
+          "x": 1873,
+          "y": 890,
+        },
+        Object {
+          "x": 1576,
+          "y": 881,
+        },
+      ],
+    },
+    "confidence": 0.96,
+    "description": "เลขเครื่องยนต์ ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2032,
+          "y": 837,
+        },
+        Object {
+          "x": 2339,
+          "y": 847,
+        },
+        Object {
+          "x": 2337,
+          "y": 906,
+        },
+        Object {
+          "x": 2030,
+          "y": 896,
+        },
+      ],
+    },
+    "confidence": 0.93,
+    "description": "4N15UBR8093",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 379,
+          "y": 872,
+        },
+        Object {
+          "x": 474,
+          "y": 874,
+        },
+        Object {
+          "x": 472,
+          "y": 969,
+        },
+        Object {
+          "x": 377,
+          "y": 967,
+        },
+      ],
+    },
+    "confidence": 0.98,
+    "description": "อยู่ที่ ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 561,
+          "y": 876,
+        },
+        Object {
+          "x": 787,
+          "y": 880,
+        },
+        Object {
+          "x": 785,
+          "y": 975,
+        },
+        Object {
+          "x": 559,
+          "y": 971,
+        },
+      ],
+    },
+    "confidence": 0.67,
+    "description": "ขวาเครื่อง ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1081,
+          "y": 886,
+        },
+        Object {
+          "x": 1267,
+          "y": 890,
+        },
+        Object {
+          "x": 1265,
+          "y": 985,
+        },
+        Object {
+          "x": 1079,
+          "y": 981,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "เชื้อเพลิง ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1377,
+          "y": 891,
+        },
+        Object {
+          "x": 1487,
+          "y": 893,
+        },
+        Object {
+          "x": 1485,
+          "y": 988,
+        },
+        Object {
+          "x": 1375,
+          "y": 986,
+        },
+      ],
+    },
+    "confidence": 0.94,
+    "description": "ดีเซล ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1803,
+          "y": 899,
+        },
+        Object {
+          "x": 2015,
+          "y": 903,
+        },
+        Object {
+          "x": 2013,
+          "y": 998,
+        },
+        Object {
+          "x": 1801,
+          "y": 994,
+        },
+      ],
+    },
+    "confidence": 0.9,
+    "description": "เลขถังแก๊ส",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 355,
+          "y": 995,
+        },
+        Object {
+          "x": 518,
+          "y": 999,
+        },
+        Object {
+          "x": 516,
+          "y": 1080,
+        },
+        Object {
+          "x": 353,
+          "y": 1076,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "จำนวน ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 698,
+          "y": 1004,
+        },
+        Object {
+          "x": 721,
+          "y": 1005,
+        },
+        Object {
+          "x": 719,
+          "y": 1086,
+        },
+        Object {
+          "x": 696,
+          "y": 1085,
+        },
+      ],
+    },
+    "confidence": 1,
+    "description": "4 ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 786,
+          "y": 1006,
+        },
+        Object {
+          "x": 846,
+          "y": 1008,
+        },
+        Object {
+          "x": 844,
+          "y": 1090,
+        },
+        Object {
+          "x": 784,
+          "y": 1088,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "สูบ ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 945,
+          "y": 1010,
+        },
+        Object {
+          "x": 1051,
+          "y": 1013,
+        },
+        Object {
+          "x": 1049,
+          "y": 1095,
+        },
+        Object {
+          "x": 943,
+          "y": 1092,
+        },
+      ],
+    },
+    "confidence": 0.96,
+    "description": "2442 ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1157,
+          "y": 1016,
+        },
+        Object {
+          "x": 1215,
+          "y": 1018,
+        },
+        Object {
+          "x": 1213,
+          "y": 1098,
+        },
+        Object {
+          "x": 1155,
+          "y": 1097,
+        },
+      ],
+    },
+    "confidence": 0.97,
+    "description": "ซีซี ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1311,
+          "y": 1020,
+        },
+        Object {
+          "x": 1393,
+          "y": 1022,
+        },
+        Object {
+          "x": 1391,
+          "y": 1103,
+        },
+        Object {
+          "x": 1309,
+          "y": 1101,
+        },
+      ],
+    },
+    "confidence": 0.98,
+    "description": "181 ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1474,
+          "y": 1024,
+        },
+        Object {
+          "x": 1587,
+          "y": 1027,
+        },
+        Object {
+          "x": 1585,
+          "y": 1109,
+        },
+        Object {
+          "x": 1472,
+          "y": 1106,
+        },
+      ],
+    },
+    "confidence": 0.84,
+    "description": "แรงม้า ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1890,
+          "y": 1038,
+        },
+        Object {
+          "x": 1910,
+          "y": 1038,
+        },
+        Object {
+          "x": 1909,
+          "y": 1107,
+        },
+        Object {
+          "x": 1889,
+          "y": 1107,
+        },
+      ],
+    },
+    "confidence": 0.88,
+    "description": "2 ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1942,
+          "y": 1039,
+        },
+        Object {
+          "x": 2059,
+          "y": 1041,
+        },
+        Object {
+          "x": 2058,
+          "y": 1111,
+        },
+        Object {
+          "x": 1941,
+          "y": 1109,
+        },
+      ],
+    },
+    "confidence": 0.89,
+    "description": "เพลา ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2093,
+          "y": 1042,
+        },
+        Object {
+          "x": 2113,
+          "y": 1042,
+        },
+        Object {
+          "x": 2112,
+          "y": 1111,
+        },
+        Object {
+          "x": 2092,
+          "y": 1111,
+        },
+      ],
+    },
+    "confidence": 0.98,
+    "description": "4 ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2155,
+          "y": 1043,
+        },
+        Object {
+          "x": 2206,
+          "y": 1044,
+        },
+        Object {
+          "x": 2205,
+          "y": 1113,
+        },
+        Object {
+          "x": 2154,
+          "y": 1112,
+        },
+      ],
+    },
+    "confidence": 0.88,
+    "description": "ล้อ ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2244,
+          "y": 1045,
+        },
+        Object {
+          "x": 2318,
+          "y": 1046,
+        },
+        Object {
+          "x": 2317,
+          "y": 1115,
+        },
+        Object {
+          "x": 2243,
+          "y": 1114,
+        },
+      ],
+    },
+    "confidence": 0.73,
+    "description": "ยาง ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2345,
+          "y": 1047,
+        },
+        Object {
+          "x": 2365,
+          "y": 1047,
+        },
+        Object {
+          "x": 2364,
+          "y": 1116,
+        },
+        Object {
+          "x": 2344,
+          "y": 1116,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "4 ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2400,
+          "y": 1047,
+        },
+        Object {
+          "x": 2479,
+          "y": 1048,
+        },
+        Object {
+          "x": 2478,
+          "y": 1118,
+        },
+        Object {
+          "x": 2399,
+          "y": 1117,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "เส้น",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 358,
+          "y": 1083,
+        },
+        Object {
+          "x": 578,
+          "y": 1086,
+        },
+        Object {
+          "x": 577,
+          "y": 1159,
+        },
+        Object {
+          "x": 357,
+          "y": 1156,
+        },
+      ],
+    },
+    "confidence": 0.98,
+    "description": "น้ำหนักรถ ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 815,
+          "y": 1090,
+        },
+        Object {
+          "x": 936,
+          "y": 1092,
+        },
+        Object {
+          "x": 935,
+          "y": 1165,
+        },
+        Object {
+          "x": 814,
+          "y": 1163,
+        },
+      ],
+    },
+    "confidence": 0.77,
+    "description": "1000 ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1095,
+          "y": 1094,
+        },
+        Object {
+          "x": 1148,
+          "y": 1095,
+        },
+        Object {
+          "x": 1147,
+          "y": 1168,
+        },
+        Object {
+          "x": 1094,
+          "y": 1167,
+        },
+      ],
+    },
+    "confidence": 0.78,
+    "description": "กก",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1140,
+          "y": 1095,
+        },
+        Object {
+          "x": 1160,
+          "y": 1095,
+        },
+        Object {
+          "x": 1159,
+          "y": 1167,
+        },
+        Object {
+          "x": 1139,
+          "y": 1167,
+        },
+      ],
+    },
+    "confidence": 0.82,
+    "description": ". ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1317,
+          "y": 1097,
+        },
+        Object {
+          "x": 1615,
+          "y": 1101,
+        },
+        Object {
+          "x": 1614,
+          "y": 1174,
+        },
+        Object {
+          "x": 1316,
+          "y": 1170,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "น้ำหนักบรรทุก",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1615,
+          "y": 1102,
+        },
+        Object {
+          "x": 1635,
+          "y": 1102,
+        },
+        Object {
+          "x": 1634,
+          "y": 1174,
+        },
+        Object {
+          "x": 1614,
+          "y": 1174,
+        },
+      ],
+    },
+    "confidence": 0.83,
+    "description": "/",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1631,
+          "y": 1102,
+        },
+        Object {
+          "x": 1933,
+          "y": 1106,
+        },
+        Object {
+          "x": 1932,
+          "y": 1179,
+        },
+        Object {
+          "x": 1630,
+          "y": 1175,
+        },
+      ],
+    },
+    "confidence": 0.95,
+    "description": "น้ำหนักลงเพลา",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2501,
+          "y": 1134,
+        },
+        Object {
+          "x": 2559,
+          "y": 1134,
+        },
+        Object {
+          "x": 2559,
+          "y": 1197,
+        },
+        Object {
+          "x": 2501,
+          "y": 1197,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "กก",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2550,
+          "y": 1134,
+        },
+        Object {
+          "x": 2568,
+          "y": 1134,
+        },
+        Object {
+          "x": 2568,
+          "y": 1197,
+        },
+        Object {
+          "x": 2550,
+          "y": 1197,
+        },
+      ],
+    },
+    "confidence": 0.74,
+    "description": ".",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 355,
+          "y": 1155,
+        },
+        Object {
+          "x": 608,
+          "y": 1163,
+        },
+        Object {
+          "x": 605,
+          "y": 1244,
+        },
+        Object {
+          "x": 353,
+          "y": 1236,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "น้ำหนักรวม",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1332,
+          "y": 1176,
+        },
+        Object {
+          "x": 1406,
+          "y": 1181,
+        },
+        Object {
+          "x": 1401,
+          "y": 1255,
+        },
+        Object {
+          "x": 1327,
+          "y": 1251,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "ที่นั่ง",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 812,
+          "y": 1209,
+        },
+        Object {
+          "x": 932,
+          "y": 1209,
+        },
+        Object {
+          "x": 932,
+          "y": 1253,
+        },
+        Object {
+          "x": 812,
+          "y": 1253,
+        },
+      ],
+    },
+    "confidence": 0.85,
+    "description": "1900",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1580,
+          "y": 1192,
+        },
+        Object {
+          "x": 1601,
+          "y": 1193,
+        },
+        Object {
+          "x": 1596,
+          "y": 1267,
+        },
+        Object {
+          "x": 1575,
+          "y": 1266,
+        },
+      ],
+    },
+    "confidence": 0.93,
+    "description": "7 ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1758,
+          "y": 1202,
+        },
+        Object {
+          "x": 1813,
+          "y": 1205,
+        },
+        Object {
+          "x": 1808,
+          "y": 1279,
+        },
+        Object {
+          "x": 1753,
+          "y": 1276,
+        },
+      ],
+    },
+    "confidence": 0.97,
+    "description": "คน",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2038,
+          "y": 1314,
+        },
+        Object {
+          "x": 2231,
+          "y": 1314,
+        },
+        Object {
+          "x": 2231,
+          "y": 1368,
+        },
+        Object {
+          "x": 2038,
+          "y": 1368,
+        },
+      ],
+    },
+    "confidence": 0.91,
+    "description": "9289791",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1088,
+          "y": 1199,
+        },
+        Object {
+          "x": 1145,
+          "y": 1199,
+        },
+        Object {
+          "x": 1145,
+          "y": 1238,
+        },
+        Object {
+          "x": 1088,
+          "y": 1238,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "กก",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1143,
+          "y": 1199,
+        },
+        Object {
+          "x": 1154,
+          "y": 1199,
+        },
+        Object {
+          "x": 1154,
+          "y": 1238,
+        },
+        Object {
+          "x": 1143,
+          "y": 1238,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": ".",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2310,
+          "y": 1548,
+        },
+        Object {
+          "x": 2333,
+          "y": 1549,
+        },
+        Object {
+          "x": 2331,
+          "y": 1630,
+        },
+        Object {
+          "x": 2308,
+          "y": 1629,
+        },
+      ],
+    },
+    "confidence": 0.38,
+    "description": ".",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2335,
+          "y": 1549,
+        },
+        Object {
+          "x": 2424,
+          "y": 1551,
+        },
+        Object {
+          "x": 2422,
+          "y": 1632,
+        },
+        Object {
+          "x": 2333,
+          "y": 1630,
+        },
+      ],
+    },
+    "confidence": 0.56,
+    "description": "00",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2486,
+          "y": 1553,
+        },
+        Object {
+          "x": 2560,
+          "y": 1555,
+        },
+        Object {
+          "x": 2558,
+          "y": 1636,
+        },
+        Object {
+          "x": 2484,
+          "y": 1634,
+        },
+      ],
+    },
+    "confidence": 0.38,
+    "description": "03",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1508,
+          "y": 1587,
+        },
+        Object {
+          "x": 1768,
+          "y": 1595,
+        },
+        Object {
+          "x": 1765,
+          "y": 1677,
+        },
+        Object {
+          "x": 1505,
+          "y": 1669,
+        },
+      ],
+    },
+    "confidence": 0.96,
+    "description": "เจ้าของรถ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1011,
+          "y": 1694,
+        },
+        Object {
+          "x": 1169,
+          "y": 1698,
+        },
+        Object {
+          "x": 1167,
+          "y": 1762,
+        },
+        Object {
+          "x": 1009,
+          "y": 1758,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "ลำดับที่ ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1269,
+          "y": 1701,
+        },
+        Object {
+          "x": 1287,
+          "y": 1701,
+        },
+        Object {
+          "x": 1285,
+          "y": 1764,
+        },
+        Object {
+          "x": 1267,
+          "y": 1764,
+        },
+      ],
+    },
+    "confidence": 1,
+    "description": "1 ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1476,
+          "y": 1706,
+        },
+        Object {
+          "x": 1854,
+          "y": 1715,
+        },
+        Object {
+          "x": 1852,
+          "y": 1779,
+        },
+        Object {
+          "x": 1474,
+          "y": 1770,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "วันที่ครอบครองรถ ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1969,
+          "y": 1718,
+        },
+        Object {
+          "x": 2027,
+          "y": 1719,
+        },
+        Object {
+          "x": 2025,
+          "y": 1783,
+        },
+        Object {
+          "x": 1967,
+          "y": 1782,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "26 ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2061,
+          "y": 1720,
+        },
+        Object {
+          "x": 2229,
+          "y": 1724,
+        },
+        Object {
+          "x": 2227,
+          "y": 1788,
+        },
+        Object {
+          "x": 2059,
+          "y": 1784,
+        },
+      ],
+    },
+    "confidence": 0.83,
+    "description": "มกราคม ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2265,
+          "y": 1725,
+        },
+        Object {
+          "x": 2360,
+          "y": 1727,
+        },
+        Object {
+          "x": 2358,
+          "y": 1791,
+        },
+        Object {
+          "x": 2263,
+          "y": 1789,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "2561",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 411,
+          "y": 1783,
+        },
+        Object {
+          "x": 698,
+          "y": 1787,
+        },
+        Object {
+          "x": 697,
+          "y": 1860,
+        },
+        Object {
+          "x": 410,
+          "y": 1856,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "ผู้ถือกรรมสิทธิ ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 797,
+          "y": 1789,
+        },
+        Object {
+          "x": 1257,
+          "y": 1796,
+        },
+        Object {
+          "x": 1256,
+          "y": 1869,
+        },
+        Object {
+          "x": 796,
+          "y": 1862,
+        },
+      ],
+    },
+    "confidence": 0.8,
+    "description": "ธนาคารกรุงศรีอยุธยา ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1301,
+          "y": 1797,
+        },
+        Object {
+          "x": 1416,
+          "y": 1799,
+        },
+        Object {
+          "x": 1415,
+          "y": 1872,
+        },
+        Object {
+          "x": 1300,
+          "y": 1870,
+        },
+      ],
+    },
+    "confidence": 0.22,
+    "description": "จำกัด ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1435,
+          "y": 1799,
+        },
+        Object {
+          "x": 1455,
+          "y": 1799,
+        },
+        Object {
+          "x": 1454,
+          "y": 1871,
+        },
+        Object {
+          "x": 1434,
+          "y": 1871,
+        },
+      ],
+    },
+    "confidence": 0.95,
+    "description": "(",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1469,
+          "y": 1800,
+        },
+        Object {
+          "x": 1610,
+          "y": 1802,
+        },
+        Object {
+          "x": 1609,
+          "y": 1875,
+        },
+        Object {
+          "x": 1468,
+          "y": 1873,
+        },
+      ],
+    },
+    "confidence": 0.95,
+    "description": "มหาชน",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1617,
+          "y": 1802,
+        },
+        Object {
+          "x": 1637,
+          "y": 1802,
+        },
+        Object {
+          "x": 1636,
+          "y": 1874,
+        },
+        Object {
+          "x": 1616,
+          "y": 1874,
+        },
+      ],
+    },
+    "confidence": 0.98,
+    "description": ")",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 404,
+          "y": 1865,
+        },
+        Object {
+          "x": 599,
+          "y": 1869,
+        },
+        Object {
+          "x": 598,
+          "y": 1939,
+        },
+        Object {
+          "x": 403,
+          "y": 1935,
+        },
+      ],
+    },
+    "confidence": 0.98,
+    "description": "เลขที่บัตร ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 715,
+          "y": 1871,
+        },
+        Object {
+          "x": 991,
+          "y": 1876,
+        },
+        Object {
+          "x": 990,
+          "y": 1945,
+        },
+        Object {
+          "x": 714,
+          "y": 1940,
+        },
+      ],
+    },
+    "confidence": 0.49,
+    "description": "0107536001 ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1006,
+          "y": 1876,
+        },
+        Object {
+          "x": 1085,
+          "y": 1877,
+        },
+        Object {
+          "x": 1084,
+          "y": 1946,
+        },
+        Object {
+          "x": 1005,
+          "y": 1945,
+        },
+      ],
+    },
+    "confidence": 0.68,
+    "description": "079 ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1286,
+          "y": 1881,
+        },
+        Object {
+          "x": 1414,
+          "y": 1883,
+        },
+        Object {
+          "x": 1413,
+          "y": 1953,
+        },
+        Object {
+          "x": 1285,
+          "y": 1951,
+        },
+      ],
+    },
+    "confidence": 0.92,
+    "description": "วันเกิด ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1524,
+          "y": 1885,
+        },
+        Object {
+          "x": 1582,
+          "y": 1886,
+        },
+        Object {
+          "x": 1581,
+          "y": 1956,
+        },
+        Object {
+          "x": 1523,
+          "y": 1955,
+        },
+      ],
+    },
+    "confidence": 0.96,
+    "description": "28 ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1615,
+          "y": 1887,
+        },
+        Object {
+          "x": 1785,
+          "y": 1890,
+        },
+        Object {
+          "x": 1784,
+          "y": 1960,
+        },
+        Object {
+          "x": 1614,
+          "y": 1957,
+        },
+      ],
+    },
+    "confidence": 0.97,
+    "description": "กันยายน ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1818,
+          "y": 1890,
+        },
+        Object {
+          "x": 1934,
+          "y": 1892,
+        },
+        Object {
+          "x": 1933,
+          "y": 1962,
+        },
+        Object {
+          "x": 1817,
+          "y": 1960,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "2536 ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2036,
+          "y": 1895,
+        },
+        Object {
+          "x": 2191,
+          "y": 1898,
+        },
+        Object {
+          "x": 2190,
+          "y": 1967,
+        },
+        Object {
+          "x": 2035,
+          "y": 1964,
+        },
+      ],
+    },
+    "confidence": 0.88,
+    "description": "สญชาติ ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2318,
+          "y": 1900,
+        },
+        Object {
+          "x": 2396,
+          "y": 1901,
+        },
+        Object {
+          "x": 2395,
+          "y": 1970,
+        },
+        Object {
+          "x": 2317,
+          "y": 1969,
+        },
+      ],
+    },
+    "confidence": 0.59,
+    "description": "ไทย",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 416,
+          "y": 1964,
+        },
+        Object {
+          "x": 498,
+          "y": 1966,
+        },
+        Object {
+          "x": 496,
+          "y": 2046,
+        },
+        Object {
+          "x": 414,
+          "y": 2044,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "ที่อยู่ ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 590,
+          "y": 1968,
+        },
+        Object {
+          "x": 706,
+          "y": 1971,
+        },
+        Object {
+          "x": 704,
+          "y": 2051,
+        },
+        Object {
+          "x": 588,
+          "y": 2048,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "1222 ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 736,
+          "y": 1971,
+        },
+        Object {
+          "x": 1034,
+          "y": 1978,
+        },
+        Object {
+          "x": 1032,
+          "y": 2059,
+        },
+        Object {
+          "x": 734,
+          "y": 2052,
+        },
+      ],
+    },
+    "confidence": 0.85,
+    "description": "ถนนพระรามที่ ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1066,
+          "y": 1979,
+        },
+        Object {
+          "x": 1089,
+          "y": 1980,
+        },
+        Object {
+          "x": 1087,
+          "y": 2060,
+        },
+        Object {
+          "x": 1064,
+          "y": 2059,
+        },
+      ],
+    },
+    "confidence": 1,
+    "description": "3",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 594,
+          "y": 2068,
+        },
+        Object {
+          "x": 969,
+          "y": 2073,
+        },
+        Object {
+          "x": 968,
+          "y": 2146,
+        },
+        Object {
+          "x": 593,
+          "y": 2141,
+        },
+      ],
+    },
+    "confidence": 0.55,
+    "description": "แขวงบางโพงพาง ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1004,
+          "y": 2074,
+        },
+        Object {
+          "x": 1280,
+          "y": 2078,
+        },
+        Object {
+          "x": 1279,
+          "y": 2151,
+        },
+        Object {
+          "x": 1003,
+          "y": 2147,
+        },
+      ],
+    },
+    "confidence": 0.88,
+    "description": "เขตยานนาวา ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1324,
+          "y": 2078,
+        },
+        Object {
+          "x": 1663,
+          "y": 2083,
+        },
+        Object {
+          "x": 1662,
+          "y": 2156,
+        },
+        Object {
+          "x": 1323,
+          "y": 2151,
+        },
+      ],
+    },
+    "confidence": 0.88,
+    "description": "กรุงเทพมหานคร",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 462,
+          "y": 2136,
+        },
+        Object {
+          "x": 500,
+          "y": 2138,
+        },
+        Object {
+          "x": 496,
+          "y": 2207,
+        },
+        Object {
+          "x": 458,
+          "y": 2205,
+        },
+      ],
+    },
+    "confidence": 0.45,
+    "description": "12 ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 553,
+          "y": 2140,
+        },
+        Object {
+          "x": 661,
+          "y": 2146,
+        },
+        Object {
+          "x": 657,
+          "y": 2216,
+        },
+        Object {
+          "x": 549,
+          "y": 2210,
+        },
+      ],
+    },
+    "confidence": 0.42,
+    "description": "กอง ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 801,
+          "y": 2154,
+        },
+        Object {
+          "x": 993,
+          "y": 2165,
+        },
+        Object {
+          "x": 989,
+          "y": 2235,
+        },
+        Object {
+          "x": 797,
+          "y": 2224,
+        },
+      ],
+    },
+    "confidence": 0.82,
+    "description": "นายปรีชา ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1070,
+          "y": 2169,
+        },
+        Object {
+          "x": 1293,
+          "y": 2181,
+        },
+        Object {
+          "x": 1289,
+          "y": 2251,
+        },
+        Object {
+          "x": 1066,
+          "y": 2239,
+        },
+      ],
+    },
+    "confidence": 0.62,
+    "description": "พรมกระซิล",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 409,
+          "y": 2212,
+        },
+        Object {
+          "x": 602,
+          "y": 2212,
+        },
+        Object {
+          "x": 602,
+          "y": 2284,
+        },
+        Object {
+          "x": 409,
+          "y": 2284,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "เลขที่บัตร",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2032,
+          "y": 2233,
+        },
+        Object {
+          "x": 2187,
+          "y": 2233,
+        },
+        Object {
+          "x": 2187,
+          "y": 2298,
+        },
+        Object {
+          "x": 2032,
+          "y": 2298,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "สัญชาติ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 713,
+          "y": 2258,
+        },
+        Object {
+          "x": 1084,
+          "y": 2251,
+        },
+        Object {
+          "x": 1085,
+          "y": 2324,
+        },
+        Object {
+          "x": 714,
+          "y": 2331,
+        },
+      ],
+    },
+    "confidence": 0.95,
+    "description": "3470200156528",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1526,
+          "y": 2269,
+        },
+        Object {
+          "x": 1543,
+          "y": 2269,
+        },
+        Object {
+          "x": 1543,
+          "y": 2329,
+        },
+        Object {
+          "x": 1526,
+          "y": 2329,
+        },
+      ],
+    },
+    "confidence": 0.47,
+    "description": "2 ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1577,
+          "y": 2269,
+        },
+        Object {
+          "x": 1747,
+          "y": 2269,
+        },
+        Object {
+          "x": 1747,
+          "y": 2329,
+        },
+        Object {
+          "x": 1577,
+          "y": 2329,
+        },
+      ],
+    },
+    "confidence": 0.81,
+    "description": "มกราคม ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1778,
+          "y": 2269,
+        },
+        Object {
+          "x": 1896,
+          "y": 2269,
+        },
+        Object {
+          "x": 1896,
+          "y": 2329,
+        },
+        Object {
+          "x": 1778,
+          "y": 2329,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "2516",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2305,
+          "y": 2269,
+        },
+        Object {
+          "x": 2394,
+          "y": 2269,
+        },
+        Object {
+          "x": 2394,
+          "y": 2338,
+        },
+        Object {
+          "x": 2305,
+          "y": 2338,
+        },
+      ],
+    },
+    "confidence": 0.83,
+    "description": "ไทย",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 591,
+          "y": 2353,
+        },
+        Object {
+          "x": 642,
+          "y": 2353,
+        },
+        Object {
+          "x": 642,
+          "y": 2421,
+        },
+        Object {
+          "x": 591,
+          "y": 2421,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "36 ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 681,
+          "y": 2353,
+        },
+        Object {
+          "x": 732,
+          "y": 2353,
+        },
+        Object {
+          "x": 732,
+          "y": 2421,
+        },
+        Object {
+          "x": 681,
+          "y": 2421,
+        },
+      ],
+    },
+    "confidence": 0.94,
+    "description": "หมู่ ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 766,
+          "y": 2353,
+        },
+        Object {
+          "x": 785,
+          "y": 2353,
+        },
+        Object {
+          "x": 785,
+          "y": 2421,
+        },
+        Object {
+          "x": 766,
+          "y": 2421,
+        },
+      ],
+    },
+    "confidence": 1,
+    "description": "3",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2303,
+          "y": 2407,
+        },
+        Object {
+          "x": 2380,
+          "y": 2407,
+        },
+        Object {
+          "x": 2380,
+          "y": 2484,
+        },
+        Object {
+          "x": 2303,
+          "y": 2484,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "โทร",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2374,
+          "y": 2407,
+        },
+        Object {
+          "x": 2396,
+          "y": 2407,
+        },
+        Object {
+          "x": 2396,
+          "y": 2484,
+        },
+        Object {
+          "x": 2374,
+          "y": 2484,
+        },
+      ],
+    },
+    "confidence": 0.94,
+    "description": ".",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 597,
+          "y": 2434,
+        },
+        Object {
+          "x": 619,
+          "y": 2434,
+        },
+        Object {
+          "x": 619,
+          "y": 2512,
+        },
+        Object {
+          "x": 597,
+          "y": 2512,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "ต",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 652,
+          "y": 2434,
+        },
+        Object {
+          "x": 816,
+          "y": 2434,
+        },
+        Object {
+          "x": 816,
+          "y": 2512,
+        },
+        Object {
+          "x": 652,
+          "y": 2512,
+        },
+      ],
+    },
+    "confidence": 0.7,
+    "description": "นาเพียง ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 858,
+          "y": 2434,
+        },
+        Object {
+          "x": 880,
+          "y": 2434,
+        },
+        Object {
+          "x": 880,
+          "y": 2512,
+        },
+        Object {
+          "x": 858,
+          "y": 2512,
+        },
+      ],
+    },
+    "confidence": 0.44,
+    "description": "อ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 882,
+          "y": 2434,
+        },
+        Object {
+          "x": 904,
+          "y": 2434,
+        },
+        Object {
+          "x": 904,
+          "y": 2512,
+        },
+        Object {
+          "x": 882,
+          "y": 2512,
+        },
+      ],
+    },
+    "confidence": 0.98,
+    "description": ".",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 911,
+          "y": 2434,
+        },
+        Object {
+          "x": 1087,
+          "y": 2434,
+        },
+        Object {
+          "x": 1087,
+          "y": 2512,
+        },
+        Object {
+          "x": 911,
+          "y": 2512,
+        },
+      ],
+    },
+    "confidence": 0.74,
+    "description": "กุสุมาลย์ ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1118,
+          "y": 2434,
+        },
+        Object {
+          "x": 1282,
+          "y": 2434,
+        },
+        Object {
+          "x": 1282,
+          "y": 2512,
+        },
+        Object {
+          "x": 1118,
+          "y": 2512,
+        },
+      ],
+    },
+    "confidence": 0.8,
+    "description": "สกลนคร",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 428,
+          "y": 2481,
+        },
+        Object {
+          "x": 783,
+          "y": 2496,
+        },
+        Object {
+          "x": 779,
+          "y": 2574,
+        },
+        Object {
+          "x": 425,
+          "y": 2559,
+        },
+      ],
+    },
+    "confidence": 0.98,
+    "description": "สัญญาเช่าซื้อเลขที่",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1506,
+          "y": 2496,
+        },
+        Object {
+          "x": 1632,
+          "y": 2505,
+        },
+        Object {
+          "x": 1626,
+          "y": 2581,
+        },
+        Object {
+          "x": 1501,
+          "y": 2572,
+        },
+      ],
+    },
+    "confidence": 0.78,
+    "description": "ลงวันที่ ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1651,
+          "y": 2506,
+        },
+        Object {
+          "x": 1721,
+          "y": 2511,
+        },
+        Object {
+          "x": 1715,
+          "y": 2587,
+        },
+        Object {
+          "x": 1646,
+          "y": 2582,
+        },
+      ],
+    },
+    "confidence": 0.94,
+    "description": "13 ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1754,
+          "y": 2513,
+        },
+        Object {
+          "x": 1925,
+          "y": 2525,
+        },
+        Object {
+          "x": 1919,
+          "y": 2601,
+        },
+        Object {
+          "x": 1749,
+          "y": 2589,
+        },
+      ],
+    },
+    "confidence": 0.53,
+    "description": "ธันวาคม ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1954,
+          "y": 2527,
+        },
+        Object {
+          "x": 2059,
+          "y": 2534,
+        },
+        Object {
+          "x": 2053,
+          "y": 2611,
+        },
+        Object {
+          "x": 1949,
+          "y": 2604,
+        },
+      ],
+    },
+    "confidence": 1,
+    "description": "2560",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1913,
+          "y": 2605,
+        },
+        Object {
+          "x": 2189,
+          "y": 2605,
+        },
+        Object {
+          "x": 2189,
+          "y": 2701,
+        },
+        Object {
+          "x": 1913,
+          "y": 2701,
+        },
+      ],
+    },
+    "confidence": 0.65,
+    "description": "ผู้ถือกรรมสิทธิ์",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1781,
+          "y": 2703,
+        },
+        Object {
+          "x": 1891,
+          "y": 2703,
+        },
+        Object {
+          "x": 1891,
+          "y": 2788,
+        },
+        Object {
+          "x": 1781,
+          "y": 2788,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "ลงชื่อ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1883,
+          "y": 2703,
+        },
+        Object {
+          "x": 1907,
+          "y": 2703,
+        },
+        Object {
+          "x": 1907,
+          "y": 2788,
+        },
+        Object {
+          "x": 1883,
+          "y": 2788,
+        },
+      ],
+    },
+    "confidence": 0.83,
+    "description": "...",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 541,
+          "y": 2780,
+        },
+        Object {
+          "x": 561,
+          "y": 2780,
+        },
+        Object {
+          "x": 561,
+          "y": 2852,
+        },
+        Object {
+          "x": 541,
+          "y": 2852,
+        },
+      ],
+    },
+    "confidence": 0.95,
+    "description": "( ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 669,
+          "y": 2780,
+        },
+        Object {
+          "x": 815,
+          "y": 2780,
+        },
+        Object {
+          "x": 815,
+          "y": 2852,
+        },
+        Object {
+          "x": 669,
+          "y": 2852,
+        },
+      ],
+    },
+    "confidence": 0.77,
+    "description": "นายปรชา ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 870,
+          "y": 2780,
+        },
+        Object {
+          "x": 1008,
+          "y": 2780,
+        },
+        Object {
+          "x": 1008,
+          "y": 2852,
+        },
+        Object {
+          "x": 870,
+          "y": 2852,
+        },
+      ],
+    },
+    "confidence": 0.91,
+    "description": "ทองวงศ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 591,
+          "y": 2859,
+        },
+        Object {
+          "x": 1071,
+          "y": 2867,
+        },
+        Object {
+          "x": 1070,
+          "y": 2948,
+        },
+        Object {
+          "x": 590,
+          "y": 2940,
+        },
+      ],
+    },
+    "confidence": 0.63,
+    "description": "เจ้าพนักงานขาหน้าที่งาน",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2046,
+          "y": 2856,
+        },
+        Object {
+          "x": 2523,
+          "y": 2871,
+        },
+        Object {
+          "x": 2520,
+          "y": 2967,
+        },
+        Object {
+          "x": 2043,
+          "y": 2952,
+        },
+      ],
+    },
+    "confidence": 0.58,
+    "description": "เจ้าพนักงาษหล่งชีขนาญงาน",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1020,
+          "y": 2610,
+        },
+        Object {
+          "x": 1130,
+          "y": 2587,
+        },
+        Object {
+          "x": 1149,
+          "y": 2679,
+        },
+        Object {
+          "x": 1040,
+          "y": 2702,
+        },
+      ],
+    },
+    "confidence": 0.81,
+    "description": "ลงชื่อ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 443,
+          "y": 2684,
+        },
+        Object {
+          "x": 530,
+          "y": 2694,
+        },
+        Object {
+          "x": 522,
+          "y": 2769,
+        },
+        Object {
+          "x": 435,
+          "y": 2760,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "ลงชื่อ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 534,
+          "y": 2694,
+        },
+        Object {
+          "x": 556,
+          "y": 2696,
+        },
+        Object {
+          "x": 547,
+          "y": 2772,
+        },
+        Object {
+          "x": 526,
+          "y": 2770,
+        },
+      ],
+    },
+    "confidence": 0.88,
+    "description": "...",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 549,
+          "y": 2696,
+        },
+        Object {
+          "x": 571,
+          "y": 2698,
+        },
+        Object {
+          "x": 562,
+          "y": 2774,
+        },
+        Object {
+          "x": 541,
+          "y": 2772,
+        },
+      ],
+    },
+    "confidence": 0.2,
+    "description": "...",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 636,
+          "y": 2706,
+        },
+        Object {
+          "x": 658,
+          "y": 2708,
+        },
+        Object {
+          "x": 649,
+          "y": 2784,
+        },
+        Object {
+          "x": 628,
+          "y": 2782,
+        },
+      ],
+    },
+    "confidence": 0.63,
+    "description": ".",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 812,
+          "y": 2654,
+        },
+        Object {
+          "x": 838,
+          "y": 2648,
+        },
+        Object {
+          "x": 858,
+          "y": 2740,
+        },
+        Object {
+          "x": 832,
+          "y": 2746,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "N",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2122,
+          "y": 2803,
+        },
+        Object {
+          "x": 2272,
+          "y": 2801,
+        },
+        Object {
+          "x": 2272,
+          "y": 2842,
+        },
+        Object {
+          "x": 2122,
+          "y": 2844,
+        },
+      ],
+    },
+    "confidence": 0.82,
+    "description": "นายปรีชา ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2324,
+          "y": 2801,
+        },
+        Object {
+          "x": 2462,
+          "y": 2799,
+        },
+        Object {
+          "x": 2462,
+          "y": 2840,
+        },
+        Object {
+          "x": 2324,
+          "y": 2842,
+        },
+      ],
+    },
+    "confidence": 0.72,
+    "description": "ทองวงศ์",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 760,
+          "y": 2840,
+        },
+        Object {
+          "x": 781,
+          "y": 2840,
+        },
+        Object {
+          "x": 781,
+          "y": 2848,
+        },
+        Object {
+          "x": 760,
+          "y": 2848,
+        },
+      ],
+    },
+    "confidence": 0.31,
+    "description": "๑๑",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2690,
+          "y": 3048,
+        },
+        Object {
+          "x": 2734,
+          "y": 3043,
+        },
+        Object {
+          "x": 2737,
+          "y": 3077,
+        },
+        Object {
+          "x": 2693,
+          "y": 3082,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "16",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1422,
+          "y": 3114,
+        },
+        Object {
+          "x": 1794,
+          "y": 3098,
+        },
+        Object {
+          "x": 1797,
+          "y": 3171,
+        },
+        Object {
+          "x": 1425,
+          "y": 3187,
+        },
+      ],
+    },
+    "confidence": 0.97,
+    "description": "รายการเสียภาษี",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 592,
+          "y": 3140,
+        },
+        Object {
+          "x": 834,
+          "y": 3148,
+        },
+        Object {
+          "x": 832,
+          "y": 3218,
+        },
+        Object {
+          "x": 590,
+          "y": 3210,
+        },
+      ],
+    },
+    "confidence": 0.92,
+    "description": "เลขทะเบียน",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 675,
+          "y": 3221,
+        },
+        Object {
+          "x": 744,
+          "y": 3223,
+        },
+        Object {
+          "x": 743,
+          "y": 3277,
+        },
+        Object {
+          "x": 674,
+          "y": 3275,
+        },
+      ],
+    },
+    "confidence": 0.65,
+    "description": "617",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1895,
+          "y": 3164,
+        },
+        Object {
+          "x": 2151,
+          "y": 3152,
+        },
+        Object {
+          "x": 2154,
+          "y": 3222,
+        },
+        Object {
+          "x": 1898,
+          "y": 3234,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "เลขทะเบียน",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2435,
+          "y": 3147,
+        },
+        Object {
+          "x": 2491,
+          "y": 3147,
+        },
+        Object {
+          "x": 2491,
+          "y": 3223,
+        },
+        Object {
+          "x": 2435,
+          "y": 3223,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "วัน ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2507,
+          "y": 3147,
+        },
+        Object {
+          "x": 2614,
+          "y": 3147,
+        },
+        Object {
+          "x": 2614,
+          "y": 3223,
+        },
+        Object {
+          "x": 2507,
+          "y": 3223,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "เดือน ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2637,
+          "y": 3147,
+        },
+        Object {
+          "x": 2659,
+          "y": 3147,
+        },
+        Object {
+          "x": 2659,
+          "y": 3223,
+        },
+        Object {
+          "x": 2637,
+          "y": 3223,
+        },
+      ],
+    },
+    "confidence": 1,
+    "description": "ปี",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 432,
+          "y": 3215,
+        },
+        Object {
+          "x": 447,
+          "y": 3215,
+        },
+        Object {
+          "x": 446,
+          "y": 3269,
+        },
+        Object {
+          "x": 431,
+          "y": 3269,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "1",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 454,
+          "y": 3215,
+        },
+        Object {
+          "x": 469,
+          "y": 3215,
+        },
+        Object {
+          "x": 468,
+          "y": 3269,
+        },
+        Object {
+          "x": 453,
+          "y": 3269,
+        },
+      ],
+    },
+    "confidence": 0.91,
+    "description": ".",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 465,
+          "y": 3215,
+        },
+        Object {
+          "x": 480,
+          "y": 3215,
+        },
+        Object {
+          "x": 479,
+          "y": 3269,
+        },
+        Object {
+          "x": 464,
+          "y": 3269,
+        },
+      ],
+    },
+    "confidence": 0.57,
+    "description": ",",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1096,
+          "y": 3174,
+        },
+        Object {
+          "x": 1149,
+          "y": 3175,
+        },
+        Object {
+          "x": 1147,
+          "y": 3247,
+        },
+        Object {
+          "x": 1094,
+          "y": 3246,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "วัน ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1162,
+          "y": 3175,
+        },
+        Object {
+          "x": 1284,
+          "y": 3178,
+        },
+        Object {
+          "x": 1282,
+          "y": 3251,
+        },
+        Object {
+          "x": 1160,
+          "y": 3248,
+        },
+      ],
+    },
+    "confidence": 0.98,
+    "description": "เดือน ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1310,
+          "y": 3179,
+        },
+        Object {
+          "x": 1330,
+          "y": 3179,
+        },
+        Object {
+          "x": 1328,
+          "y": 3251,
+        },
+        Object {
+          "x": 1308,
+          "y": 3251,
+        },
+      ],
+    },
+    "confidence": 1,
+    "description": "ปี",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 947,
+          "y": 3245,
+        },
+        Object {
+          "x": 998,
+          "y": 3247,
+        },
+        Object {
+          "x": 995,
+          "y": 3317,
+        },
+        Object {
+          "x": 944,
+          "y": 3315,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "26 ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1039,
+          "y": 3249,
+        },
+        Object {
+          "x": 1059,
+          "y": 3250,
+        },
+        Object {
+          "x": 1056,
+          "y": 3319,
+        },
+        Object {
+          "x": 1036,
+          "y": 3318,
+        },
+      ],
+    },
+    "confidence": 1,
+    "description": "ม",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1060,
+          "y": 3250,
+        },
+        Object {
+          "x": 1080,
+          "y": 3251,
+        },
+        Object {
+          "x": 1077,
+          "y": 3320,
+        },
+        Object {
+          "x": 1057,
+          "y": 3319,
+        },
+      ],
+    },
+    "confidence": 0.98,
+    "description": ".",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1095,
+          "y": 3251,
+        },
+        Object {
+          "x": 1115,
+          "y": 3252,
+        },
+        Object {
+          "x": 1112,
+          "y": 3321,
+        },
+        Object {
+          "x": 1092,
+          "y": 3320,
+        },
+      ],
+    },
+    "confidence": 0.97,
+    "description": "ค",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1116,
+          "y": 3252,
+        },
+        Object {
+          "x": 1136,
+          "y": 3253,
+        },
+        Object {
+          "x": 1133,
+          "y": 3322,
+        },
+        Object {
+          "x": 1113,
+          "y": 3321,
+        },
+      ],
+    },
+    "confidence": 0.96,
+    "description": ". ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1178,
+          "y": 3255,
+        },
+        Object {
+          "x": 1229,
+          "y": 3257,
+        },
+        Object {
+          "x": 1226,
+          "y": 3326,
+        },
+        Object {
+          "x": 1175,
+          "y": 3324,
+        },
+      ],
+    },
+    "confidence": 1,
+    "description": "61",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1643,
+          "y": 3278,
+        },
+        Object {
+          "x": 1653,
+          "y": 3280,
+        },
+        Object {
+          "x": 1647,
+          "y": 3317,
+        },
+        Object {
+          "x": 1637,
+          "y": 3315,
+        },
+      ],
+    },
+    "confidence": 0.25,
+    "description": ".",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1724,
+          "y": 3292,
+        },
+        Object {
+          "x": 1734,
+          "y": 3294,
+        },
+        Object {
+          "x": 1728,
+          "y": 3331,
+        },
+        Object {
+          "x": 1718,
+          "y": 3329,
+        },
+      ],
+    },
+    "confidence": 0.89,
+    "description": "2",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1741,
+          "y": 3295,
+        },
+        Object {
+          "x": 1751,
+          "y": 3297,
+        },
+        Object {
+          "x": 1745,
+          "y": 3334,
+        },
+        Object {
+          "x": 1735,
+          "y": 3332,
+        },
+      ],
+    },
+    "confidence": 0.81,
+    "description": ". ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 424,
+          "y": 3410,
+        },
+        Object {
+          "x": 621,
+          "y": 3414,
+        },
+        Object {
+          "x": 620,
+          "y": 3473,
+        },
+        Object {
+          "x": 423,
+          "y": 3469,
+        },
+      ],
+    },
+    "confidence": 0.98,
+    "description": "วันเสียภาษี",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 699,
+          "y": 3416,
+        },
+        Object {
+          "x": 715,
+          "y": 3416,
+        },
+        Object {
+          "x": 714,
+          "y": 3474,
+        },
+        Object {
+          "x": 698,
+          "y": 3474,
+        },
+      ],
+    },
+    "confidence": 0.84,
+    "description": "| ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 730,
+          "y": 3416,
+        },
+        Object {
+          "x": 1001,
+          "y": 3422,
+        },
+        Object {
+          "x": 1000,
+          "y": 3481,
+        },
+        Object {
+          "x": 729,
+          "y": 3475,
+        },
+      ],
+    },
+    "confidence": 0.9,
+    "description": "วันครบกำหนด",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 792,
+          "y": 3482,
+        },
+        Object {
+          "x": 946,
+          "y": 3490,
+        },
+        Object {
+          "x": 943,
+          "y": 3545,
+        },
+        Object {
+          "x": 789,
+          "y": 3537,
+        },
+      ],
+    },
+    "confidence": 0.87,
+    "description": "เสียภาษี",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1217,
+          "y": 3432,
+        },
+        Object {
+          "x": 1486,
+          "y": 3461,
+        },
+        Object {
+          "x": 1479,
+          "y": 3530,
+        },
+        Object {
+          "x": 1210,
+          "y": 3502,
+        },
+      ],
+    },
+    "confidence": 0.96,
+    "description": "ใบเสร็จรับเงิน",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1213,
+          "y": 3498,
+        },
+        Object {
+          "x": 1384,
+          "y": 3526,
+        },
+        Object {
+          "x": 1372,
+          "y": 3595,
+        },
+        Object {
+          "x": 1201,
+          "y": 3567,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "เลขที่คุม",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1372,
+          "y": 3525,
+        },
+        Object {
+          "x": 1392,
+          "y": 3528,
+        },
+        Object {
+          "x": 1380,
+          "y": 3596,
+        },
+        Object {
+          "x": 1361,
+          "y": 3593,
+        },
+      ],
+    },
+    "confidence": 0.97,
+    "description": "/",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1395,
+          "y": 3529,
+        },
+        Object {
+          "x": 1491,
+          "y": 3545,
+        },
+        Object {
+          "x": 1479,
+          "y": 3613,
+        },
+        Object {
+          "x": 1384,
+          "y": 3597,
+        },
+      ],
+    },
+    "confidence": 0.98,
+    "description": "เลขที่",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 423,
+          "y": 3527,
+        },
+        Object {
+          "x": 475,
+          "y": 3532,
+        },
+        Object {
+          "x": 469,
+          "y": 3590,
+        },
+        Object {
+          "x": 417,
+          "y": 3585,
+        },
+      ],
+    },
+    "confidence": 0.62,
+    "description": "26 ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 508,
+          "y": 3536,
+        },
+        Object {
+          "x": 524,
+          "y": 3538,
+        },
+        Object {
+          "x": 518,
+          "y": 3595,
+        },
+        Object {
+          "x": 502,
+          "y": 3594,
+        },
+      ],
+    },
+    "confidence": 0.91,
+    "description": "ม",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 532,
+          "y": 3538,
+        },
+        Object {
+          "x": 548,
+          "y": 3540,
+        },
+        Object {
+          "x": 542,
+          "y": 3597,
+        },
+        Object {
+          "x": 526,
+          "y": 3596,
+        },
+      ],
+    },
+    "confidence": 0.82,
+    "description": ".",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 561,
+          "y": 3541,
+        },
+        Object {
+          "x": 577,
+          "y": 3543,
+        },
+        Object {
+          "x": 571,
+          "y": 3600,
+        },
+        Object {
+          "x": 555,
+          "y": 3599,
+        },
+      ],
+    },
+    "confidence": 0.94,
+    "description": "ค",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 585,
+          "y": 3544,
+        },
+        Object {
+          "x": 601,
+          "y": 3546,
+        },
+        Object {
+          "x": 595,
+          "y": 3603,
+        },
+        Object {
+          "x": 579,
+          "y": 3602,
+        },
+      ],
+    },
+    "confidence": 0.85,
+    "description": ". ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 644,
+          "y": 3550,
+        },
+        Object {
+          "x": 677,
+          "y": 3553,
+        },
+        Object {
+          "x": 671,
+          "y": 3611,
+        },
+        Object {
+          "x": 638,
+          "y": 3608,
+        },
+      ],
+    },
+    "confidence": 0.97,
+    "description": "61 ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 745,
+          "y": 3561,
+        },
+        Object {
+          "x": 799,
+          "y": 3567,
+        },
+        Object {
+          "x": 793,
+          "y": 3624,
+        },
+        Object {
+          "x": 739,
+          "y": 3619,
+        },
+      ],
+    },
+    "confidence": 0.83,
+    "description": "26 ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 832,
+          "y": 3570,
+        },
+        Object {
+          "x": 848,
+          "y": 3572,
+        },
+        Object {
+          "x": 842,
+          "y": 3629,
+        },
+        Object {
+          "x": 826,
+          "y": 3628,
+        },
+      ],
+    },
+    "confidence": 0.76,
+    "description": "ม",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 855,
+          "y": 3572,
+        },
+        Object {
+          "x": 871,
+          "y": 3574,
+        },
+        Object {
+          "x": 865,
+          "y": 3631,
+        },
+        Object {
+          "x": 849,
+          "y": 3630,
+        },
+      ],
+    },
+    "confidence": 0.77,
+    "description": ".",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 890,
+          "y": 3576,
+        },
+        Object {
+          "x": 906,
+          "y": 3578,
+        },
+        Object {
+          "x": 900,
+          "y": 3635,
+        },
+        Object {
+          "x": 884,
+          "y": 3634,
+        },
+      ],
+    },
+    "confidence": 0.79,
+    "description": "ค",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 913,
+          "y": 3578,
+        },
+        Object {
+          "x": 929,
+          "y": 3580,
+        },
+        Object {
+          "x": 923,
+          "y": 3637,
+        },
+        Object {
+          "x": 907,
+          "y": 3636,
+        },
+      ],
+    },
+    "confidence": 0.89,
+    "description": ". ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 968,
+          "y": 3584,
+        },
+        Object {
+          "x": 1022,
+          "y": 3590,
+        },
+        Object {
+          "x": 1016,
+          "y": 3647,
+        },
+        Object {
+          "x": 962,
+          "y": 3642,
+        },
+      ],
+    },
+    "confidence": 0.6,
+    "description": "62 ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1049,
+          "y": 3592,
+        },
+        Object {
+          "x": 1065,
+          "y": 3594,
+        },
+        Object {
+          "x": 1059,
+          "y": 3651,
+        },
+        Object {
+          "x": 1043,
+          "y": 3650,
+        },
+      ],
+    },
+    "confidence": 0.47,
+    "description": "| ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1071,
+          "y": 3594,
+        },
+        Object {
+          "x": 1603,
+          "y": 3649,
+        },
+        Object {
+          "x": 1597,
+          "y": 3708,
+        },
+        Object {
+          "x": 1065,
+          "y": 3653,
+        },
+      ],
+    },
+    "confidence": 0.69,
+    "description": "A626319671610051698",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 421,
+          "y": 3595,
+        },
+        Object {
+          "x": 473,
+          "y": 3601,
+        },
+        Object {
+          "x": 466,
+          "y": 3658,
+        },
+        Object {
+          "x": 415,
+          "y": 3653,
+        },
+      ],
+    },
+    "confidence": 0.52,
+    "description": "14 ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 512,
+          "y": 3604,
+        },
+        Object {
+          "x": 528,
+          "y": 3606,
+        },
+        Object {
+          "x": 522,
+          "y": 3663,
+        },
+        Object {
+          "x": 506,
+          "y": 3662,
+        },
+      ],
+    },
+    "confidence": 0.82,
+    "description": "ธ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 536,
+          "y": 3607,
+        },
+        Object {
+          "x": 552,
+          "y": 3609,
+        },
+        Object {
+          "x": 546,
+          "y": 3666,
+        },
+        Object {
+          "x": 530,
+          "y": 3665,
+        },
+      ],
+    },
+    "confidence": 0.85,
+    "description": ".",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 565,
+          "y": 3610,
+        },
+        Object {
+          "x": 581,
+          "y": 3612,
+        },
+        Object {
+          "x": 575,
+          "y": 3669,
+        },
+        Object {
+          "x": 559,
+          "y": 3668,
+        },
+      ],
+    },
+    "confidence": 0.86,
+    "description": "ค",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 589,
+          "y": 3613,
+        },
+        Object {
+          "x": 605,
+          "y": 3615,
+        },
+        Object {
+          "x": 599,
+          "y": 3672,
+        },
+        Object {
+          "x": 583,
+          "y": 3671,
+        },
+      ],
+    },
+    "confidence": 0.85,
+    "description": ". ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 649,
+          "y": 3620,
+        },
+        Object {
+          "x": 680,
+          "y": 3623,
+        },
+        Object {
+          "x": 674,
+          "y": 3681,
+        },
+        Object {
+          "x": 643,
+          "y": 3678,
+        },
+      ],
+    },
+    "confidence": 0.93,
+    "description": "61 ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 715,
+          "y": 3627,
+        },
+        Object {
+          "x": 731,
+          "y": 3629,
+        },
+        Object {
+          "x": 725,
+          "y": 3686,
+        },
+        Object {
+          "x": 709,
+          "y": 3685,
+        },
+      ],
+    },
+    "confidence": 0.33,
+    "description": "| ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 749,
+          "y": 3631,
+        },
+        Object {
+          "x": 803,
+          "y": 3637,
+        },
+        Object {
+          "x": 796,
+          "y": 3694,
+        },
+        Object {
+          "x": 743,
+          "y": 3689,
+        },
+      ],
+    },
+    "confidence": 0.77,
+    "description": "26 ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 835,
+          "y": 3639,
+        },
+        Object {
+          "x": 851,
+          "y": 3641,
+        },
+        Object {
+          "x": 845,
+          "y": 3698,
+        },
+        Object {
+          "x": 829,
+          "y": 3697,
+        },
+      ],
+    },
+    "confidence": 0.82,
+    "description": "ม",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 858,
+          "y": 3642,
+        },
+        Object {
+          "x": 874,
+          "y": 3644,
+        },
+        Object {
+          "x": 868,
+          "y": 3701,
+        },
+        Object {
+          "x": 852,
+          "y": 3700,
+        },
+      ],
+    },
+    "confidence": 0.79,
+    "description": ".",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 888,
+          "y": 3645,
+        },
+        Object {
+          "x": 904,
+          "y": 3647,
+        },
+        Object {
+          "x": 898,
+          "y": 3704,
+        },
+        Object {
+          "x": 882,
+          "y": 3703,
+        },
+      ],
+    },
+    "confidence": 0.81,
+    "description": "ค",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 914,
+          "y": 3649,
+        },
+        Object {
+          "x": 930,
+          "y": 3651,
+        },
+        Object {
+          "x": 924,
+          "y": 3708,
+        },
+        Object {
+          "x": 908,
+          "y": 3707,
+        },
+      ],
+    },
+    "confidence": 0.8,
+    "description": ". ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 968,
+          "y": 3654,
+        },
+        Object {
+          "x": 1011,
+          "y": 3659,
+        },
+        Object {
+          "x": 1004,
+          "y": 3716,
+        },
+        Object {
+          "x": 962,
+          "y": 3712,
+        },
+      ],
+    },
+    "confidence": 0.98,
+    "description": "63 ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1052,
+          "y": 3663,
+        },
+        Object {
+          "x": 1068,
+          "y": 3665,
+        },
+        Object {
+          "x": 1062,
+          "y": 3722,
+        },
+        Object {
+          "x": 1046,
+          "y": 3721,
+        },
+      ],
+    },
+    "confidence": 0.96,
+    "description": "| ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1078,
+          "y": 3666,
+        },
+        Object {
+          "x": 1470,
+          "y": 3708,
+        },
+        Object {
+          "x": 1463,
+          "y": 3767,
+        },
+        Object {
+          "x": 1072,
+          "y": 3725,
+        },
+      ],
+    },
+    "confidence": 0.72,
+    "description": "A7400536246200 ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1494,
+          "y": 3711,
+        },
+        Object {
+          "x": 1599,
+          "y": 3722,
+        },
+        Object {
+          "x": 1593,
+          "y": 3781,
+        },
+        Object {
+          "x": 1488,
+          "y": 3770,
+        },
+      ],
+    },
+    "confidence": 0.53,
+    "description": "1618",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1759,
+          "y": 3424,
+        },
+        Object {
+          "x": 1893,
+          "y": 3422,
+        },
+        Object {
+          "x": 1894,
+          "y": 3491,
+        },
+        Object {
+          "x": 1760,
+          "y": 3493,
+        },
+      ],
+    },
+    "confidence": 0.97,
+    "description": "ค่าภาษี ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1988,
+          "y": 3420,
+        },
+        Object {
+          "x": 2008,
+          "y": 3420,
+        },
+        Object {
+          "x": 2009,
+          "y": 3489,
+        },
+        Object {
+          "x": 1989,
+          "y": 3489,
+        },
+      ],
+    },
+    "confidence": 0.97,
+    "description": "| ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2027,
+          "y": 3419,
+        },
+        Object {
+          "x": 2178,
+          "y": 3416,
+        },
+        Object {
+          "x": 2179,
+          "y": 3485,
+        },
+        Object {
+          "x": 2028,
+          "y": 3488,
+        },
+      ],
+    },
+    "confidence": 0.93,
+    "description": "เงินเพิ่ม",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1746,
+          "y": 3516,
+        },
+        Object {
+          "x": 1822,
+          "y": 3512,
+        },
+        Object {
+          "x": 1824,
+          "y": 3558,
+        },
+        Object {
+          "x": 1748,
+          "y": 3562,
+        },
+      ],
+    },
+    "confidence": 0.98,
+    "description": "บาท",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1817,
+          "y": 3513,
+        },
+        Object {
+          "x": 1830,
+          "y": 3512,
+        },
+        Object {
+          "x": 1832,
+          "y": 3558,
+        },
+        Object {
+          "x": 1819,
+          "y": 3559,
+        },
+      ],
+    },
+    "confidence": 0.93,
+    "description": "/",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1845,
+          "y": 3511,
+        },
+        Object {
+          "x": 1895,
+          "y": 3509,
+        },
+        Object {
+          "x": 1897,
+          "y": 3555,
+        },
+        Object {
+          "x": 1847,
+          "y": 3557,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "สต",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1892,
+          "y": 3509,
+        },
+        Object {
+          "x": 1905,
+          "y": 3508,
+        },
+        Object {
+          "x": 1907,
+          "y": 3554,
+        },
+        Object {
+          "x": 1894,
+          "y": 3555,
+        },
+      ],
+    },
+    "confidence": 0.95,
+    "description": ".",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2032,
+          "y": 3501,
+        },
+        Object {
+          "x": 2105,
+          "y": 3501,
+        },
+        Object {
+          "x": 2105,
+          "y": 3549,
+        },
+        Object {
+          "x": 2032,
+          "y": 3549,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "บาท",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2100,
+          "y": 3501,
+        },
+        Object {
+          "x": 2113,
+          "y": 3501,
+        },
+        Object {
+          "x": 2113,
+          "y": 3549,
+        },
+        Object {
+          "x": 2100,
+          "y": 3549,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "/",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2131,
+          "y": 3501,
+        },
+        Object {
+          "x": 2176,
+          "y": 3501,
+        },
+        Object {
+          "x": 2176,
+          "y": 3549,
+        },
+        Object {
+          "x": 2131,
+          "y": 3549,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "สต",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2173,
+          "y": 3501,
+        },
+        Object {
+          "x": 2186,
+          "y": 3501,
+        },
+        Object {
+          "x": 2186,
+          "y": 3549,
+        },
+        Object {
+          "x": 2173,
+          "y": 3549,
+        },
+      ],
+    },
+    "confidence": 0.6,
+    "description": ".",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1739,
+          "y": 3606,
+        },
+        Object {
+          "x": 1755,
+          "y": 3605,
+        },
+        Object {
+          "x": 1758,
+          "y": 3663,
+        },
+        Object {
+          "x": 1742,
+          "y": 3664,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "4",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1769,
+          "y": 3604,
+        },
+        Object {
+          "x": 1785,
+          "y": 3603,
+        },
+        Object {
+          "x": 1788,
+          "y": 3661,
+        },
+        Object {
+          "x": 1772,
+          "y": 3662,
+        },
+      ],
+    },
+    "confidence": 0.98,
+    "description": ",",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1800,
+          "y": 3602,
+        },
+        Object {
+          "x": 1874,
+          "y": 3598,
+        },
+        Object {
+          "x": 1877,
+          "y": 3657,
+        },
+        Object {
+          "x": 1803,
+          "y": 3661,
+        },
+      ],
+    },
+    "confidence": 0.98,
+    "description": "668",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1887,
+          "y": 3598,
+        },
+        Object {
+          "x": 1903,
+          "y": 3597,
+        },
+        Object {
+          "x": 1906,
+          "y": 3655,
+        },
+        Object {
+          "x": 1890,
+          "y": 3656,
+        },
+      ],
+    },
+    "confidence": 0.94,
+    "description": ".",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1912,
+          "y": 3597,
+        },
+        Object {
+          "x": 1966,
+          "y": 3594,
+        },
+        Object {
+          "x": 1969,
+          "y": 3652,
+        },
+        Object {
+          "x": 1915,
+          "y": 3655,
+        },
+      ],
+    },
+    "confidence": 0.91,
+    "description": "00",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1735,
+          "y": 3675,
+        },
+        Object {
+          "x": 1753,
+          "y": 3674,
+        },
+        Object {
+          "x": 1755,
+          "y": 3737,
+        },
+        Object {
+          "x": 1737,
+          "y": 3738,
+        },
+      ],
+    },
+    "confidence": 0.99,
+    "description": "4",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1767,
+          "y": 3674,
+        },
+        Object {
+          "x": 1785,
+          "y": 3673,
+        },
+        Object {
+          "x": 1787,
+          "y": 3736,
+        },
+        Object {
+          "x": 1769,
+          "y": 3737,
+        },
+      ],
+    },
+    "confidence": 0.98,
+    "description": ",",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1795,
+          "y": 3673,
+        },
+        Object {
+          "x": 1876,
+          "y": 3670,
+        },
+        Object {
+          "x": 1878,
+          "y": 3733,
+        },
+        Object {
+          "x": 1797,
+          "y": 3736,
+        },
+      ],
+    },
+    "confidence": 0.98,
+    "description": "668",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1882,
+          "y": 3670,
+        },
+        Object {
+          "x": 1900,
+          "y": 3669,
+        },
+        Object {
+          "x": 1902,
+          "y": 3732,
+        },
+        Object {
+          "x": 1884,
+          "y": 3733,
+        },
+      ],
+    },
+    "confidence": 0.91,
+    "description": ".",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 1910,
+          "y": 3669,
+        },
+        Object {
+          "x": 1968,
+          "y": 3667,
+        },
+        Object {
+          "x": 1970,
+          "y": 3730,
+        },
+        Object {
+          "x": 1912,
+          "y": 3732,
+        },
+      ],
+    },
+    "confidence": 0.98,
+    "description": "00",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2177,
+          "y": 3587,
+        },
+        Object {
+          "x": 2370,
+          "y": 3562,
+        },
+        Object {
+          "x": 2374,
+          "y": 3588,
+        },
+        Object {
+          "x": 2180,
+          "y": 3613,
+        },
+      ],
+    },
+    "confidence": 0.39,
+    "description": "เยอง",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2422,
+          "y": 3569,
+        },
+        Object {
+          "x": 2458,
+          "y": 3564,
+        },
+        Object {
+          "x": 2476,
+          "y": 3687,
+        },
+        Object {
+          "x": 2441,
+          "y": 3693,
+        },
+      ],
+    },
+    "confidence": 0.42,
+    "description": "S",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2307,
+          "y": 3643,
+        },
+        Object {
+          "x": 2412,
+          "y": 3639,
+        },
+        Object {
+          "x": 2415,
+          "y": 3720,
+        },
+        Object {
+          "x": 2310,
+          "y": 3724,
+        },
+      ],
+    },
+    "confidence": 0.62,
+    "description": "สพ",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2401,
+          "y": 3639,
+        },
+        Object {
+          "x": 2424,
+          "y": 3638,
+        },
+        Object {
+          "x": 2427,
+          "y": 3718,
+        },
+        Object {
+          "x": 2404,
+          "y": 3719,
+        },
+      ],
+    },
+    "confidence": 0.77,
+    "description": ".",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2432,
+          "y": 3638,
+        },
+        Object {
+          "x": 2653,
+          "y": 3629,
+        },
+        Object {
+          "x": 2656,
+          "y": 3710,
+        },
+        Object {
+          "x": 2435,
+          "y": 3719,
+        },
+      ],
+    },
+    "confidence": 0.32,
+    "description": "3นอะร็วตน์",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Object {
+          "x": 2655,
+          "y": 3629,
+        },
+        Object {
+          "x": 2678,
+          "y": 3628,
+        },
+        Object {
+          "x": 2681,
+          "y": 3708,
+        },
+        Object {
+          "x": 2658,
+          "y": 3709,
+        },
+      ],
+    },
+    "confidence": 0.88,
+    "description": ")",
+  },
+]
+`;

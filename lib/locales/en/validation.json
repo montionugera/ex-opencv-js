@@ -1,0 +1,20 @@
+{
+  "is_valid": "Valid",
+  "empty": {
+    "select": "Please select.",
+    "text": "Require info.",
+    "textarea": "Require info.",
+    "date": "Please select.",
+    "number": "Require info.",
+    "checkbox": "Please choose.",
+    "checkbox_button": "Please choose.",
+    "image": "Require image."
+  },
+  "error": {
+    "empty": "$t(validation:empty.{{ type }})",
+    "invalid_name": "Invalid name.",
+    "invalid_date": "Invalid date.",
+    "invalid_number": "Invalid number.",
+    "invalid_thai_national_id": "Invalid national ID."
+  }
+}

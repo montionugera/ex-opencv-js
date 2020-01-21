@@ -1,0 +1,102 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`partialCrop return crop correctly 1`] = `
+Array [
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Array [
+          Object {
+            "x": 2880,
+            "y": 606,
+          },
+          Object {
+            "x": 3340,
+            "y": 611,
+          },
+          Object {
+            "x": 3338,
+            "y": 756,
+          },
+          Object {
+            "x": 2879,
+            "y": 751,
+          },
+        ],
+      ],
+    },
+    "description": "กรุงเทพมหานคร",
+    "field": "vehicle_license_province",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Array [
+          Object {
+            "x": 1694,
+            "y": 975,
+          },
+          Object {
+            "x": 2322,
+            "y": 973,
+          },
+          Object {
+            "x": 2322,
+            "y": 1054,
+          },
+          Object {
+            "x": 1694,
+            "y": 1056,
+          },
+        ],
+      ],
+    },
+    "description": "MLHJF350XK5629846",
+    "field": "vehicle_chassis_number",
+  },
+  Object {
+    "boundingPoly": Object {
+      "vertices": Array [
+        Array [
+          Object {
+            "x": 1994,
+            "y": 662,
+          },
+          Object {
+            "x": 2092,
+            "y": 662,
+          },
+          Object {
+            "x": 2092,
+            "y": 703,
+          },
+          Object {
+            "x": 1994,
+            "y": 703,
+          },
+        ],
+        Array [
+          Object {
+            "x": 2136,
+            "y": 663,
+          },
+          Object {
+            "x": 2286,
+            "y": 663,
+          },
+          Object {
+            "x": 2286,
+            "y": 703,
+          },
+          Object {
+            "x": 2136,
+            "y": 703,
+          },
+        ],
+      ],
+    },
+    "description": "9กร 7876",
+    "field": "vehicle_license_number",
+  },
+]
+`;

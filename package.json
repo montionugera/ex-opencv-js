@@ -1,0 +1,53 @@
+{
+  "name": "agentmate-chatbot-ocr",
+  "scripts": {
+    "clean": "rm -rf dist",
+    "build": "babel src --out-dir dist",
+    "start": "node --max-http-header-size=80000 node_modules/.bin/moleculer-runner --env dist/handler/*.js dist/handler/**/*.js",
+    "dev": "nodemon --max-http-header-size=80000 --exec babel-node node_modules/.bin/moleculer-runner --env src/handler/*.js src/handler/**/*.js",
+    "dev:debug": "nodemon --max-http-header-size=80000 --inspect=0.0.0.0 --exec babel-node node_modules/.bin/moleculer-runner --env src/handler/*.js src/handler/**/*.js",
+    "test": "node --max-http-header-size=80000 node_modules/.bin/jest --maxWorkers=2",
+    "test:debug": "node --max-http-header-size=80000 --inspect node_modules/.bin/jest --runInBand --watch"
+  },
+  "dependencies": {
+    "@google-cloud/vision": "^1.7.2",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "fp": "https://github.com/armkung/fp.git",
+    "fuzzball": "^1.3.0",
+    "geometric": "^2.2.0",
+    "ioredis": "^4.14.0",
+    "jsfeat": "^0.0.8",
+    "lib": "./lib",
+    "lodash": "^4.17.11",
+    "moleculer": "^0.13.9",
+    "moleculer-web": "^0.8.5",
+    "multer": "^1.4.2",
+    "opencv4nodejs-prebuilt": "^5.3.0",
+    "polygon-clipping": "^0.14.3",
+    "shades": "^2.1.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.5",
+    "@babel/node": "^7.4.5",
+    "@babel/plugin-proposal-export-namespace-from": "^7.2.0",
+    "@babel/plugin-transform-runtime": "7.5.0",
+    "@babel/preset-env": "^7.4.5",
+    "axios-mock-adapter": "^1.17.0",
+    "babel-plugin-add-module-exports": "^1.0.2",
+    "babel-plugin-module-resolver": "^3.2.0",
+    "eslint": "^6.7.1",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-config-prettier": "^6.7.0",
+    "eslint-import-resolver-babel-module": "^5.1.0",
+    "eslint-plugin-import": "^2.18.0",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-prettier": "^3.1.1",
+    "eslint-plugin-react": "^7.13.0",
+    "glob": "^7.1.6",
+    "jest": "^24.8.0",
+    "nodemon": "^1.19.1"
+  }
+}

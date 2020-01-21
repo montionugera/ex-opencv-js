@@ -1,0 +1,261 @@
+{
+  "insurance_type": "Car Insurance",
+  "policy": "Policy",
+  "tab": {
+    "info": "Information",
+    "picture": "Images",
+    "package": "Package",
+    "summary": "Summary"
+  },
+  "confirm_agreement": "Please read the terms and conditions",
+  "accept_agreement": "You have accepted the terms and conditions",
+  "confirm_application": "Is the information in the insurance application form correct?",
+  "invalid_application": "what would you like to change?",
+  "basic": {
+    "label": "Car Information",
+    "ask": "Ask car info",
+    "ask_basic": "Start asking car information"
+  },
+  "car": {
+    "label": "Car Additional Information",
+    "ask": "Ask car additional info",
+    "brand": { "label": "Brand", "placeholder": "Select brand" },
+    "model": { "label": "Model", "placeholder": "Select model" },
+    "year": { "label": "Year", "placeholder": "Select year" },
+    "id": {
+      "label": "License plate number",
+      "placeholder": "Fill in license plate number"
+    },
+    "chassis_number": {
+      "label": "Chassis number",
+      "placeholder": "Fill in chassis number"
+    },
+    "province": {
+      "label": "Registered province",
+      "placeholder": "Select province"
+    },
+    "ask_car": "Start asking car information",
+    "cancel_ask_car": "Cancel car information inquiry",
+    "ask_brand": "What brand is your car?",
+    "ask_select_brand": "Choose the closest result",
+    "invalid_brand": "Invalid brand. Please specify",
+    "ask_model": "What model is your car?",
+    "ask_select_model": "Choose the closest result",
+    "invalid_model": "Invalid model. Please specify",
+    "ask_year": "Which year is your car?",
+    "ask_select_year": "Choose the closest result",
+    "invalid_year": "Invalid year. Please specify",
+    "ask_province": "Where was your car registered to in terms of province?",
+    "ask_select_province": "Choose the closest result",
+    "invalid_province": "Invalid province. Please specify",
+    "ask_id": "What is your car license number?",
+    "ask_chassis_number": "What is your car chassis number?",
+    "confirm_car": "Is the information correct?",
+    "invalid_confirm_car": "what would you like to change?"
+  },
+  "insured": {
+    "label": "Personal Information",
+    "ask": "Ask personal info",
+    "confirm_insured": "Is the information correct?",
+    "invalid_confirm_insured": "what would you like to change?",
+    "name": { "label": "Name", "placeholder": "Fill in first-last name" },
+    "national_id": {
+      "label": "National ID",
+      "placeholder": "Fill national ID"
+    },
+    "dob": { "label": "Date of Birth", "placeholder": "DD/MM/YYYY" },
+    "job": { "label": "Occupation", "placeholder": "Fill in occupation" },
+    "delivery_location": {
+      "label": "Address",
+      "placeholder": "Fill in address"
+    },
+    "ask_insured": "Start asking personal information?",
+    "cancel_ask_insured": "Cancel personal information inquiry",
+    "ask_name": "What is your name?",
+    "invalid_name": "Invalid name format. Please tell me your name once again",
+    "ask_national_id": "What is your national ID number?",
+    "invalid_national_id": "Invalid national ID. Please tell me your national ID once again",
+    "ask_dob": "What is your date of birth?",
+    "invalid_dob": "Invalid date format. Please select your date of birth once again",
+    "ask_job": "What is your occupation?",
+    "invalid_job": "Invalid occupation. Please tell me your occupation once again",
+    "ask_delivery_location": "Where is your current address?",
+    "invalid_delivery_location": "Invalid address. Please $t(common:pin_location) once again"
+  },
+  "product": {
+    "label": "Package Information",
+    "id": "id",
+    "type": "Type",
+    "level": "Type",
+    "price": "Price",
+    "brand": "Brand",
+    "brand_image": "Brand Image",
+    "insurance_fund": "Insurance Fund",
+    "repair_type": "Repair Type",
+    "theft_fund": "Theft Fund",
+    "fire_fund": "Fire Fund",
+    "flood_fund": "Flood Fund",
+    "bodily_injury_per_person": "Bodily Injury per Person",
+    "bodily_injury_per_incident": "Bodily Injury per Incident",
+    "property_damage_per_incident": "Property Damage per Incident",
+    "coverage_passenger": "Passenger Coverage",
+    "car_coverage": "Car Coverage (Insured)",
+    "uninsured_motorist_coverage": "Motorist Coverage (Uninsured)",
+    "insured_motorist_coverage": "Motorist Coverage (Insured)",
+
+    "third_party_liability": "Third Party Liability",
+    "bodily_injury": "Bodily Injury",
+    "max_limit_compulsory": "over maximum limit of compulsory insurance only",
+    "property_damage": "Property Damage",
+    "deductible_fee": "Deductible",
+
+    "car_physical_damage": "Physical Damage, Theft, Fire and Flood",
+    "own_damage": "Own Damage",
+    "accidental_damage": "Theft, Fire and Flood",
+
+    "additional_coverage": "Additional Coverage",
+    "personal_accident": "Personal Accident",
+    "permanent_injury": "Death Dismemberment Permanent Disability",
+    "temporary_injury": "Temporary Disability",
+    "medical_fund": "Medical Expenses",
+    "bail_bond_fund": "Bail Bond",
+
+    "permium_for_main_coverages": "Permium for Main Coverages",
+    "permium_for_additional_coverages": "Premuim for Additional Coverages",
+    "discount_for_named_driver": "Discount for Named Driver",
+    "already": "",
+
+    "discount": "Discount",
+    "fleet": "Fleet",
+    "ncb": "NCB",
+    "others": "Others",
+    "total_discount": "Total Discount",
+    "surcharge": "Surcharge",
+    "surcharge_amount": "Surcharge Amount",
+
+    "net": "Net",
+    "stamps": "Stamps",
+    "vat": "VAT 7%",
+    "act": "Car Act",
+    "total": "Total",
+
+    "agent": "Agent",
+    "broker": "Broker",
+    "license_number": "License No.",
+    "agreement_made_on": "Agreement made on",
+    "policy_issued_on": "Policy issued on",
+    "note_evidence_stamp": "As evidence the Company has caused this Policy to be signed by duly authorized persons and the Company's stamp to be affixed at its office",
+
+    "endorsement_attached": "Endorsement Attached",
+    "use_of_motor_vehicle": "Use of Motor Vehicle",
+
+    "particulars_of_motor_vehicle": "Particulars of Motor Vehicle",
+    "driver": "Driver",
+    "passengers": "Passengers",
+    "make_model": "Make/Model",
+    "license_plate_number": "License No.",
+    "chassis_number": "Chassis No.",
+    "model_year": "Model Yr.",
+    "body_type": "Body Type",
+    "number_of_seats_displacement_gvw": "No. of seats / Displacement / GVW.",
+    "special_accessories": "Special Accessories",
+    "amount_of_insurance": "Amount of Insurance",
+    "coverages_policy": "This policy affords coverages only with respect to those coverage agreements for which a limit of liability is shown",
+
+    "company_code": "Co. Code",
+    "motor_insur_schedule": "The Motor Insurance Schedule",
+    "already_paid": "Already Paid",
+    "policy_number": "Policy No.",
+    "territorial_covered": "Territorial Limit Covered",
+
+    "insured": "The Insured",
+    "name": "Name",
+    "address": "Address",
+    "occupation": "Occupation",
+    "dob": "Birth Date",
+
+    "beneficiary": "Beneficiary",
+    "period_of_insurance": "Period of Insurance",
+    "from": "From",
+    "to": "To",
+    "time": "Time"
+  },
+  "addition": {
+    "label": "Additional Information",
+    "ask": "Ask additional info",
+    "cctv": "CCTV",
+    "car_act": "Car Act",
+    "first_driver": "1st driver",
+    "first_driver_name": {
+      "label": "Name of $t(car:addition.first_driver)",
+      "placeholder": "Fill first-last name"
+    },
+    "first_driver_dob": {
+      "label": "Date of Birth of $t(car:addition.first_driver)",
+      "placeholder": "DD/MM/YYYY"
+    },
+    "first_driver_job": {
+      "label": "Occupation of $t(car:addition.first_driver)",
+      "placeholder": "Fill occupation"
+    },
+    "second_driver": "2nd driver",
+    "second_driver_name": {
+      "label": "Name of $t(car:addition.second_driver)",
+      "placeholder": "Fill first-last name"
+    },
+    "second_driver_dob": {
+      "label": "Date of Birth of $t(car:addition.second_driver)",
+      "placeholder": "DD/MM/YYYY"
+    },
+    "second_driver_job": {
+      "label": "Occupation of $t(car:addition.second_driver)",
+      "placeholder": "Fill occupation"
+    },
+    "ask_addition": "Start asking additional information",
+    "ask_car_act": "Would you like to buy car act?",
+    "buy_car_act": {
+      "label": "Yes",
+      "text": "Want to buy car act"
+    },
+    "not_buy_car_act": {
+      "label": "No",
+      "text": "Don't want to buy car act"
+    },
+    "ask_cctv": "Does your car have a dash cam?",
+    "has_cctv": {
+      "label": "Yes",
+      "text": "Have a dash cam"
+    },
+    "not_has_cctv": {
+      "label": "No",
+      "text": "Don't have a dash cam"
+    },
+    "ask_first_driver": "Would you like to buy the insurance with specify driver?",
+    "has_first_driver": {
+      "label": "Yes",
+      "text": "Specify the driver"
+    },
+    "not_has_first_driver": {
+      "label": "No",
+      "text": "Not specify the driver"
+    },
+    "ask_first_driver_name": "What is the $t(car:addition.first_driver_name.label)",
+    "ask_first_driver_dob": "What is the $t(car:addition.first_driver_dob.label)",
+    "ask_first_driver_job": "What is the $t(car:addition.first_driver_job.label)",
+    "ask_second_driver": "Would you like to specify the 2nd driver?",
+    "has_second_driver": {
+      "label": "Yes",
+      "text": "Specify the 2nd driver"
+    },
+    "not_has_second_driver": {
+      "label": "No",
+      "text": "Not specify the 2nd driver"
+    },
+    "ask_second_driver_name": "What is the $t(car:addition.second_driver_name.label)",
+    "ask_second_driver_dob": "What is the $t(car:addition.second_driver_dob.label)",
+    "ask_second_driver_job": "What is the $t(car:addition.second_driver_job.label)",
+    "confirm_addition": "Is the information correct?",
+    "invalid_confirm_addition": "what would you like to change?"
+  },
+  "agreement_term": "We cover you as soon as we confirm payment within our office hours.\n\n1. Cancellation Policy\n\n1.1 Policy Expires Naturally When the policy expires naturally based on the valid coverage date. This date will be written on the policy. Policies sold are annual policies and will expire 1 year from date of purchase\n\n1.2 Insurance company cancels the policy The insurance company may choose to cancel the policy of the customer. There will be a notice that is sent to the customer at least 30 days in advance to the customer’s latest address provided to the insurance company.\n\nRefund will be granted to the customer prorated based on the covered dates that have elapsed. Cases where the insurance company may ask to cancel the policy include aftermarket modifications to the vehicle post coverage. Another potential reason is if customers use their vehicle for unintended purposes, such as renting their vehicle out or using it for other economic benefits.\n\n1.3 Customers may choose to cancel the policy for various reasons. In order to cancel the policy, the customer must give notice to the insurance company in writing with a specified date of when they would like the coverage to end. The written notice must also be accompanied by a valid ID or passport. A refund will be granted to the customer, prorated by elapsed covered dates, and subject to operating expenses.\n\nCustomers can cancel their policies for the following reasons\n\n- Sale of their vehicle.\n- The vehicle has been refinanced and the refinancing company has made it compulsory for the customer to sign up with an insurer of their choosing.\n- Customer would like to change the details of their policy; such as deductibles, named drivers, coverage amounts, package type, etc.\n\nRefunds for cancellations made within 15 days of purchase will depend on payment methods and other fees incurred based on the customer’s choices during purchase. In the situation that the customer has made a claim before asking for a refund, the insurance company reserves the right to review the refund case for damages and loss before approval of refund, if any. Refunds will be paid out to customers based on the payment cycle of the company. The company reserve the right to deduct amount of refund money due to Fees incurred, inclusive of the cost of freebies that the customer may have received.\n\n2. Exceptions and Exclusions\n\n2.1 General Exclusions and Exceptions\n\nIn the following cases, the insurance company will not be responsible for damages or losses, direct or indirect:\n\n- Damages and losses during times of war declared or undeclared. Situations that resemble a likeness to times of war are also included as an exception.\n- Damages and losses during times of civil war or civil unrest, military coups, forceful military takeovers, political unrests, and or other situations where public unrest is caused by mass demonstrations.\n- Nuclear explosions\n- Damages caused by radiation fallout from nuclear explosions, fires caused by a nuclear explosion, and or leftover radioactive materials from a nuclear explosion.\n\n2.2 Exclusions and exceptions to damages to third party\n\nThe insurance company will not be liable for any losses or damages to a third party under the following circumstances\n\n- Using the vehicle outside the coverage area (Thailand)\n- Using the vehicle for illegal purposes such as robbery, drug trafficking, etc\n- Using the vehicle in a race\n- Using the vehicle to push or pull another vehicle except for the cases where the towed car also has insurance with the same insurance company\n- Signing an agreement or declaration of admission to the fault before the insurance company’s representation has reviewed the situation\n- Driving the vehicle while intoxicated with alcohol or drugs. The blood alcohol content cannot be above the legal limit of 50mg%. If the driver is below the age of 20, drives using a suspended or temporary license, or drives without a license, the legal limit appropriately adjusts to 20mg%.\n\n3. Validity of quotation given to customers\n\nThe quotation given to the customer will be valid for up to 30 days after the quotation has been given to the customer. After expiry, there is no guarantee of prices or promotions. Payment must also be made within 30 days of receiving the quotation"
+}
