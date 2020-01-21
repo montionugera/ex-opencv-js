@@ -10,7 +10,7 @@ COPY . .
 # COPY moleculer.config.js moleculer.config.js
 # COPY dist dist
 
-RUN yarn install --production --no-cache
+# RUN yarn install --production --no-cache
 
 CMD yarn start
 
