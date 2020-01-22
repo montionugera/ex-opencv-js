@@ -1,4 +1,4 @@
-import cv from 'opencv4nodejs-prebuilt'
+import cv from 'opencv4nodejs'
 
 export default async (image, threshold = 100) => {
   const lp = await image.laplacianAsync(cv.CV_64F)

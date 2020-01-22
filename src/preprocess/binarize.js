@@ -1,4 +1,4 @@
-import cv from 'opencv4nodejs-prebuilt'
+import cv from 'opencv4nodejs'
 
 export default async (inputImage) => {
   // const blur = await inputImage.bilateralFilterAsync(5, 75, 75)

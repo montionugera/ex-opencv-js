@@ -2,7 +2,7 @@ import * as fp from 'lodash/fp'
 
 import { generateFields } from 'services/vision'
 import { polygonHull, polygonScale } from 'geometric'
-import cv from 'opencv4nodejs-prebuilt'
+import cv from 'opencv4nodejs'
 
 export default async (buffer, fields, sceneList, cropScale = 1.2) => {
   const image = await cv.imdecodeAsync(buffer, cv.CV_8UC3)

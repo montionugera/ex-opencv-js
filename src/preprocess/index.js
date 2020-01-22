@@ -1,4 +1,4 @@
-import cv from 'opencv4nodejs-prebuilt'
+import cv from 'opencv4nodejs'
 
 import binarize from './binarize'
 import blur from './blur'
