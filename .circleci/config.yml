@@ -47,10 +47,15 @@ jobs:
       - persist_to_workspace:
           root: .
           paths:
-            - repo
+            - node_modules
+            - dist
+            - lib
+            - package.json
+            - yarn.lock
+            - moleculer.config.js
   build-img:
     executor: docker-publisher
-    working_directory: /tmp/workspace/repo
+    working_directory: /tmp/workspace
     steps:
       - checkout
       - setup_remote_docker
