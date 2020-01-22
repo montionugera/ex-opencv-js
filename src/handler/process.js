@@ -50,7 +50,7 @@ export default {
 
           const formatedResult = formatter(postResult)
 
-          return {result : formatedResult, version : 2.01}
+          return {result : formatedResult, version : 2.02}
         } catch (err) {
           console.error(err)
           throw new Errors.MoleculerError(
