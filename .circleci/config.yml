@@ -8,25 +8,46 @@ executors:
 jobs:
   build-src:
     docker:
-      - image: circleci/node:8
+      - image: pasit/opencv-nodejs-base
     working_directory: ~/repo
     steps:
       - checkout:
           path: ~/repo
       - restore_cache:
           keys:
-            - dep-{{ checksum "yarn.lock" }}
-      - run: yarn install --production --no-cache
+            - lib-dist-{{ checksum "lib/yarn.lock" }}
+      - run:
+          name: Build Lib
+          command: |
+              cd lib
+              yarn
+              yarn run build
+              cd ..
       - save_cache:
-          key: dep-{{ checksum "yarn.lock" }}
+          key: lib-dist-{{ checksum "lib/yarn.lock" }}
+          paths:
+            - lib/node_modules
+            - lib/dist
+      
+      - restore_cache:
+          keys:
+            - src-dist-{{ checksum "yarn.lock" }}
+      - run:
+          name: Build Src
+          command: |
+              yarn
+              yarn run build
+      - save_cache:
+          key: src-dist-{{ checksum "yarn.lock" }}
           paths:
             - node_modules
-            - lib
-      - run: yarn run build
+            - dist
+      - run:
+          command: cd ..
       - persist_to_workspace:
           root: .
           paths:
-            - .
+            - repo
   build-img:
     executor: docker-publisher
     working_directory: /tmp/workspace/repo

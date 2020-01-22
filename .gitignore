@@ -1,5 +1,6 @@
-credential.json
+# credential.json
 # Logs
+secret
 logs
 *.log
 npm-debug.log*

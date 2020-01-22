@@ -8,9 +8,13 @@ Opencv with node js
 ## Running the container
 docker pull $DOCKER_USERNAME/ex-opencv-nodejs:latest
 docker run --rm -p 5000:5000 $DOCKER_USERNAME/ex-opencv-nodejs:latest
-` $ docker run --rm -p 80:80 $DOCKER_USERNAME/ex-opencv-nodejs `# ex-opencv-js
+` $ docker run --rm -p 5000:5000 --env-file ./secret/env \
+ -v $(pwd)/secret/credential.json:/usr/src/app/credential.json \
+ $DOCKER_USERNAME/ex-opencv-nodejs 
+ `# ex-opencv-js
 
-
+## Pushing the container
+` $ docker push $DOCKER_USERNAME/opencv-nodejs-base `
 ## Test 
 
 
