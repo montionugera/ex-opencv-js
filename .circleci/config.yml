@@ -15,7 +15,7 @@ jobs:
           path: ~/repo
       - restore_cache:
           keys:
-            - lib-dist-{{ checksum "lib/yarn.lock" }}
+            - v1-lib-dist-{{ checksum "lib/yarn.lock" }}
       - run:
           name: Build Lib
           command: |
@@ -24,26 +24,23 @@ jobs:
               yarn run build
               cd ..
       - save_cache:
-          key: lib-dist-{{ checksum "lib/yarn.lock" }}
+          key: v1-lib-dist-{{ checksum "lib/yarn.lock" }}
           paths:
             - lib/node_modules
             - lib/dist
-      
+      - run:
+          name: Build src
+          command: yarn run build
       - restore_cache:
           keys:
-            - src-dist-{{ checksum "yarn.lock" }}
+            - v1-node_modules-{{ checksum "yarn.lock" }}
       - run:
-          name: Build Src
-          command: |
-              yarn
-              yarn run build
+          name: Build node_modules
+          command: yarn
       - save_cache:
-          key: src-dist-{{ checksum "yarn.lock" }}
+          key: v1-node_modules-{{ checksum "yarn.lock" }}
           paths:
             - node_modules
-            - dist
-      - run:
-          command: cd ..
       - persist_to_workspace:
           root: .
           paths:
