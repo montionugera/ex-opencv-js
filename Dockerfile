@@ -1,4 +1,4 @@
-FROM pasit/opencv-nodejs-base:node10-opencv3.4.1-contrib
+FROM pasit/opencv-nodejs-base:node10-opencv4.1.0-contrib
 # RUN apk add --no-cache git
 
 WORKDIR /usr/src/app

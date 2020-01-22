@@ -16,6 +16,7 @@ docker run --rm -p 5000:5000 $DOCKER_USERNAME/ex-opencv-nodejs:latest
 `git add . && git commit -m "update ci config" && git push`
 ## Pushing the container
 ` $ docker push $DOCKER_USERNAME/opencv-nodejs-base `
+docker push pasit/opencv-nodejs-base:node10-opencv4.1.0-contrib
 ## Test 
 
 URL : `localhost:5000/ocr/process` ( POST )
