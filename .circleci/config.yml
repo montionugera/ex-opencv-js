@@ -8,7 +8,7 @@ executors:
 jobs:
   build-src:
     docker:
-      - image: pasit/opencv-nodejs-base
+      - image: pasit/opencv-nodejs-base:node10-opencv3.4.1-contrib
     working_directory: ~/repo
     steps:
       - checkout:

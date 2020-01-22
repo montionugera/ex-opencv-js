@@ -20,3 +20,13 @@ docker run --rm -p 5000:5000 $DOCKER_USERNAME/ex-opencv-nodejs:latest
 
 URL : `localhost:5000/ocr/process` ( POST )
 Param : `image:file`
+
+
+## Scripts to build opencv4nodejs on ubuntu 16.04. (Repository)
+
+Usage:
+
+./build.sh <OpenCV version> <with contrib?> <node major version>
+Build OpenCV 3.4.1 with contrib and node version 9.x:
+
+./build-base-img.sh 3.4.1 y 10
