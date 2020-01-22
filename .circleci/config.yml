@@ -28,9 +28,6 @@ jobs:
           paths:
             - lib/node_modules
             - lib/dist
-      - run:
-          name: Build src
-          command: yarn run build
       - restore_cache:
           keys:
             - v1-node_modules-{{ checksum "yarn.lock" }}
@@ -41,6 +38,9 @@ jobs:
           key: v1-node_modules-{{ checksum "yarn.lock" }}
           paths:
             - node_modules
+      - run:
+          name: Build src
+          command: yarn run build
       - persist_to_workspace:
           root: .
           paths:
