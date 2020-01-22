@@ -53,6 +53,7 @@ jobs:
             - package.json
             - yarn.lock
             - moleculer.config.js
+            - Dockerfile
   build-img:
     executor: docker-publisher
     working_directory: /tmp/workspace
