@@ -8,7 +8,7 @@
     "test:debug": "node --inspect node_modules/.bin/jest --runInBand --watch"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "decimal.js": "^10.2.0",
     "fp": "https://github.com/armkung/fp.git",
     "i18next": "^17.0.8",
